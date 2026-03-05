@@ -1,0 +1,1001 @@
+date,region,category,product,sales_rep,quantity,unit_price,discount,revenue,cost,profit
+2023-08-17,East,Electronics,Laptop,David Lee,9,370.87,0.15,2837.16,1765.28,1071.88
+2023-01-31,West,Sports,Yoga Mat,Alice Johnson,6,117.13,0.1,632.5,367.23,265.27
+2024-04-04,West,Sports,Dumbbell,David Lee,38,146.31,0.2,4447.82,1787.8,2660.02
+2023-06-09,East,Clothing,Sneakers,Eva Martinez,14,479.03,0.0,6706.42,2888.21,3818.21
+2024-09-10,East,Home & Garden,Plant Pot,Frank Chen,17,405.49,0.15,5859.33,3151.31,2708.02
+2024-10-05,North,Electronics,Headphones,Eva Martinez,40,443.87,0.0,17754.8,10177.15,7577.65
+2023-03-23,South,Electronics,Laptop,Eva Martinez,15,434.58,0.05,6192.76,2993.53,3199.23
+2023-08-03,East,Food & Beverage,Protein Bar,Frank Chen,43,140.82,0.15,5146.97,3059.41,2087.56
+2024-04-18,South,Sports,Dumbbell,Carol White,25,142.27,0.15,3023.24,1833.44,1189.8
+2023-02-02,North,Clothing,Jacket,David Lee,21,206.57,0.0,4337.97,2009.76,2328.21
+2024-02-10,South,Sports,Running Shoes,Henry Brown,42,234.84,0.0,9863.28,4358.48,5504.8
+2024-08-20,East,Sports,Jump Rope,Grace Kim,26,187.38,0.0,4871.88,2693.46,2178.42
+2024-10-04,North,Electronics,Laptop,Carol White,11,398.12,0.05,4160.35,2408.52,1751.83
+2024-07-20,West,Home & Garden,Wall Art,Eva Martinez,1,343.34,0.0,343.34,207.55,135.79
+2023-10-28,East,Sports,Running Shoes,Bob Smith,28,87.5,0.0,2450.0,1681.05,768.95
+2024-10-02,South,Food & Beverage,Snack Mix,Bob Smith,20,422.42,0.1,7603.56,4430.53,3173.03
+2024-09-05,South,Clothing,Jacket,Alice Johnson,21,249.42,0.0,5237.82,3555.06,1682.76
+2024-08-03,North,Food & Beverage,Protein Bar,David Lee,6,51.97,0.05,296.23,191.01,105.22
+2024-07-16,South,Sports,Dumbbell,Henry Brown,11,139.88,0.2,1230.94,716.38,514.56
+2024-02-13,South,Clothing,Dress,Eva Martinez,43,328.44,0.05,13416.77,8987.68,4429.09
+2023-03-07,South,Home & Garden,Plant Pot,David Lee,22,20.31,0.1,402.14,188.62,213.52
+2023-08-23,North,Clothing,T-Shirt,Alice Johnson,5,453.66,0.2,1814.64,905.74,908.9
+2023-08-08,East,Sports,Dumbbell,Henry Brown,35,74.83,0.1,2357.14,1350.32,1006.82
+2023-04-07,West,Clothing,Sneakers,David Lee,7,332.9,0.0,2330.3,1228.24,1102.06
+2024-02-17,North,Home & Garden,Plant Pot,Alice Johnson,47,176.26,0.2,6627.38,2868.2,3759.18
+2024-03-08,West,Clothing,Jeans,Carol White,12,146.49,0.0,1757.88,1164.32,593.56
+2024-10-29,North,Electronics,Headphones,Alice Johnson,35,419.65,0.0,14687.75,9956.97,4730.78
+2024-05-07,West,Clothing,Jeans,Henry Brown,14,433.68,0.0,6071.52,2728.49,3343.03
+2023-10-20,East,Electronics,Headphones,Henry Brown,28,351.33,0.15,8361.65,5841.67,2519.98
+2023-10-31,South,Sports,Water Bottle,David Lee,14,484.67,0.1,6106.84,3790.64,2316.2
+2024-08-21,North,Electronics,Tablet,Alice Johnson,31,256.4,0.2,6358.72,3556.67,2802.05
+2023-03-12,North,Electronics,Smart Watch,Carol White,39,43.3,0.2,1350.96,635.71,715.25
+2024-09-26,South,Electronics,Smart Watch,Alice Johnson,6,215.42,0.1,1163.27,662.56,500.71
+2023-09-02,South,Food & Beverage,Green Tea,Frank Chen,17,203.94,0.15,2946.93,1749.45,1197.48
+2024-04-14,North,Home & Garden,Throw Pillow,Alice Johnson,40,499.24,0.0,19969.6,8426.74,11542.86
+2023-12-24,East,Clothing,Dress,Carol White,5,440.84,0.0,2204.2,1070.13,1134.07
+2024-11-14,East,Home & Garden,Candle Set,Alice Johnson,36,156.7,0.15,4795.02,2067.02,2728.0
+2024-07-20,North,Clothing,Jacket,Bob Smith,10,143.45,0.1,1291.05,598.0,693.05
+2023-09-15,East,Food & Beverage,Protein Bar,Henry Brown,4,55.23,0.05,209.87,136.16,73.71
+2024-10-14,East,Electronics,Laptop,Carol White,17,89.18,0.05,1440.26,814.47,625.79
+2023-03-19,North,Home & Garden,Candle Set,Bob Smith,45,452.93,0.1,18343.67,7535.73,10807.94
+2023-05-11,South,Food & Beverage,Snack Mix,Grace Kim,3,161.05,0.2,386.52,267.34,119.18
+2024-11-13,South,Electronics,Tablet,David Lee,7,183.3,0.1,1154.79,768.21,386.58
+2023-06-16,South,Home & Garden,Candle Set,David Lee,12,441.89,0.0,5302.68,2406.4,2896.28
+2023-06-13,South,Food & Beverage,Energy Drink,Eva Martinez,45,62.97,0.2,2266.92,933.1,1333.82
+2023-12-25,South,Home & Garden,LED Lamp,Henry Brown,20,412.06,0.2,6592.96,3087.34,3505.62
+2023-10-13,West,Electronics,Smartphone,Frank Chen,5,483.78,0.0,2418.9,1222.38,1196.52
+2023-04-29,East,Sports,Water Bottle,Alice Johnson,17,97.5,0.0,1657.5,682.02,975.48
+2024-03-22,East,Sports,Water Bottle,Frank Chen,39,492.28,0.0,19198.92,9898.17,9300.75
+2024-12-26,East,Sports,Dumbbell,Alice Johnson,28,10.83,0.2,242.59,136.22,106.37
+2024-11-11,West,Clothing,Jacket,Bob Smith,22,315.35,0.15,5897.05,3859.06,2037.99
+2023-12-01,East,Food & Beverage,Snack Mix,Grace Kim,26,351.63,0.1,8228.14,3605.46,4622.68
+2024-02-20,South,Home & Garden,Wall Art,Eva Martinez,36,418.53,0.0,15067.08,7323.72,7743.36
+2024-03-28,East,Home & Garden,Candle Set,Henry Brown,29,341.06,0.1,8901.67,4824.31,4077.36
+2023-04-06,East,Clothing,T-Shirt,Frank Chen,49,125.09,0.0,6129.41,2864.84,3264.57
+2023-09-08,North,Clothing,Jeans,Alice Johnson,31,309.52,0.2,7676.1,3238.15,4437.95
+2024-05-21,South,Home & Garden,Candle Set,Grace Kim,26,129.55,0.15,2863.06,1735.84,1127.22
+2024-12-13,South,Electronics,Headphones,Carol White,34,237.63,0.1,7271.48,3452.2,3819.28
+2024-11-14,South,Electronics,Headphones,Henry Brown,34,494.07,0.1,15118.54,7486.54,7632.0
+2023-06-12,West,Home & Garden,Candle Set,Henry Brown,48,432.13,0.05,19705.13,9414.27,10290.86
+2023-10-09,West,Clothing,Jacket,David Lee,29,47.97,0.0,1391.13,654.32,736.81
+2023-06-04,North,Food & Beverage,Green Tea,Carol White,15,197.69,0.0,2965.35,1814.57,1150.78
+2024-07-09,West,Electronics,Headphones,Frank Chen,30,213.73,0.0,6411.9,4166.88,2245.02
+2024-05-03,North,Home & Garden,Candle Set,Grace Kim,1,471.94,0.0,471.94,295.45,176.49
+2023-08-13,South,Home & Garden,Candle Set,Henry Brown,18,223.56,0.0,4024.08,2079.07,1945.01
+2024-09-29,West,Home & Garden,LED Lamp,Carol White,35,23.21,0.05,771.73,445.73,326.0
+2024-04-17,West,Electronics,Laptop,Carol White,12,34.64,0.05,394.9,196.74,198.16
+2023-10-12,East,Home & Garden,Throw Pillow,Grace Kim,49,476.09,0.05,22161.99,10542.05,11619.94
+2023-12-25,North,Electronics,Headphones,Alice Johnson,15,328.57,0.2,3942.84,2709.46,1233.38
+2023-01-21,South,Electronics,Laptop,David Lee,40,84.67,0.0,3386.8,1835.88,1550.92
+2024-12-17,South,Electronics,Smart Watch,Henry Brown,17,385.78,0.0,6558.26,3815.38,2742.88
+2024-08-15,East,Electronics,Smartphone,Bob Smith,2,465.15,0.1,837.27,505.04,332.23
+2024-08-29,South,Home & Garden,Wall Art,Bob Smith,45,416.98,0.0,18764.1,8079.27,10684.83
+2023-12-22,North,Food & Beverage,Snack Mix,Alice Johnson,35,219.91,0.0,7696.85,3237.96,4458.89
+2023-04-19,West,Food & Beverage,Coffee Beans,Henry Brown,28,480.79,0.15,11442.8,7637.75,3805.05
+2024-06-18,West,Home & Garden,LED Lamp,Carol White,42,142.34,0.2,4782.62,3232.5,1550.12
+2023-11-27,West,Home & Garden,Wall Art,Eva Martinez,16,417.06,0.0,6672.96,3227.57,3445.39
+2023-12-11,West,Home & Garden,LED Lamp,Grace Kim,2,252.21,0.0,504.42,229.29,275.13
+2023-10-14,East,Clothing,Jacket,Frank Chen,39,353.58,0.0,13789.62,7815.09,5974.53
+2024-02-21,North,Sports,Dumbbell,David Lee,32,282.04,0.0,9025.28,5479.99,3545.29
+2023-10-29,North,Home & Garden,Wall Art,Bob Smith,15,208.16,0.0,3122.4,1535.79,1586.61
+2024-03-11,West,Sports,Running Shoes,Frank Chen,48,279.69,0.0,13425.12,8200.82,5224.3
+2023-05-04,East,Food & Beverage,Green Tea,David Lee,47,104.37,0.0,4905.39,3055.39,1850.0
+2023-10-11,South,Clothing,Jeans,Henry Brown,47,298.9,0.2,11238.64,6264.32,4974.32
+2023-08-21,South,Food & Beverage,Coffee Beans,Eva Martinez,24,97.93,0.0,2350.32,1439.35,910.97
+2024-07-20,North,Clothing,Jacket,Alice Johnson,19,351.73,0.0,6682.87,3951.99,2730.88
+2024-04-25,North,Home & Garden,Plant Pot,Eva Martinez,31,225.83,0.0,7000.73,4828.05,2172.68
+2024-02-15,North,Food & Beverage,Energy Drink,Bob Smith,32,46.3,0.15,1259.36,763.09,496.27
+2023-09-12,East,Clothing,Jeans,Bob Smith,8,283.46,0.05,2154.3,1253.58,900.72
+2024-03-29,West,Sports,Dumbbell,Henry Brown,20,431.48,0.05,8198.12,4030.31,4167.81
+2024-10-02,North,Sports,Yoga Mat,David Lee,14,139.68,0.0,1955.52,874.35,1081.17
+2023-01-03,North,Clothing,Dress,Carol White,27,230.75,0.1,5607.23,3033.36,2573.87
+2024-12-20,East,Electronics,Smartphone,Eva Martinez,30,44.88,0.0,1346.4,911.75,434.65
+2024-07-11,West,Sports,Dumbbell,Bob Smith,15,327.34,0.0,4910.1,3181.69,1728.41
+2024-09-01,South,Electronics,Laptop,Eva Martinez,48,413.88,0.0,19866.24,10563.79,9302.45
+2024-05-27,West,Home & Garden,Throw Pillow,Eva Martinez,35,251.96,0.0,8818.6,5109.59,3709.01
+2023-04-04,East,Home & Garden,Throw Pillow,Alice Johnson,15,481.34,0.2,5776.08,3801.56,1974.52
+2023-06-29,East,Sports,Yoga Mat,Alice Johnson,31,264.29,0.05,7783.34,5252.37,2530.97
+2023-04-04,West,Clothing,Dress,Henry Brown,31,180.5,0.0,5595.5,2777.14,2818.36
+2024-12-11,East,Electronics,Smartphone,Grace Kim,32,151.23,0.05,4597.39,2961.04,1636.35
+2023-11-19,West,Sports,Yoga Mat,Bob Smith,17,168.4,0.2,2290.24,1193.79,1096.45
+2023-02-25,West,Sports,Yoga Mat,Grace Kim,13,264.04,0.1,3089.27,1936.77,1152.5
+2024-07-16,South,Home & Garden,Plant Pot,Eva Martinez,9,464.56,0.05,3971.99,2638.41,1333.58
+2024-12-27,North,Home & Garden,Plant Pot,David Lee,11,162.27,0.0,1784.97,1009.71,775.26
+2023-05-01,North,Electronics,Smartphone,Henry Brown,42,417.75,0.05,16668.22,11330.99,5337.23
+2024-05-09,East,Food & Beverage,Snack Mix,Grace Kim,31,129.43,0.1,3611.1,1601.13,2009.97
+2023-10-10,South,Clothing,Dress,Bob Smith,50,397.1,0.05,18862.25,9468.14,9394.11
+2023-11-02,North,Sports,Running Shoes,Eva Martinez,38,294.16,0.15,9501.37,5196.22,4305.15
+2023-12-07,West,Clothing,Sneakers,Frank Chen,36,383.81,0.05,13126.3,7043.62,6082.68
+2023-08-28,South,Food & Beverage,Protein Bar,Grace Kim,50,211.28,0.0,10564.0,6585.72,3978.28
+2023-02-07,South,Home & Garden,Wall Art,Henry Brown,9,256.12,0.1,2074.57,1036.45,1038.12
+2023-01-16,North,Electronics,Headphones,Henry Brown,47,80.64,0.2,3032.06,1808.42,1223.64
+2023-12-13,West,Clothing,T-Shirt,Eva Martinez,40,349.43,0.15,11880.62,5038.51,6842.11
+2024-10-03,West,Food & Beverage,Snack Mix,Frank Chen,46,444.84,0.05,19439.51,12863.41,6576.1
+2024-10-08,North,Electronics,Smart Watch,David Lee,44,461.26,0.0,20295.44,12664.96,7630.48
+2023-06-20,North,Home & Garden,Plant Pot,Henry Brown,45,156.74,0.0,7053.3,2918.64,4134.66
+2024-03-17,East,Electronics,Tablet,Frank Chen,10,129.66,0.05,1231.77,701.84,529.93
+2024-09-16,South,Clothing,Jeans,Bob Smith,25,313.66,0.0,7841.5,4307.34,3534.16
+2024-10-15,South,Sports,Dumbbell,Henry Brown,17,235.19,0.15,3398.5,1368.98,2029.52
+2024-03-28,South,Home & Garden,Throw Pillow,Bob Smith,23,493.95,0.0,11360.85,6722.01,4638.84
+2023-07-23,West,Home & Garden,Throw Pillow,Eva Martinez,25,428.13,0.0,10703.25,5042.96,5660.29
+2023-01-23,East,Sports,Running Shoes,Eva Martinez,43,203.94,0.0,8769.42,4996.63,3772.79
+2023-08-24,West,Electronics,Smart Watch,Eva Martinez,39,402.95,0.0,15715.05,9287.36,6427.69
+2024-10-04,South,Sports,Running Shoes,Bob Smith,42,29.32,0.2,985.15,524.34,460.81
+2023-10-30,South,Sports,Running Shoes,Bob Smith,21,376.27,0.0,7901.67,3636.65,4265.02
+2023-09-21,East,Sports,Running Shoes,Carol White,31,484.02,0.0,15004.62,9362.4,5642.22
+2023-05-25,West,Food & Beverage,Coffee Beans,Bob Smith,49,483.59,0.2,18956.73,11428.96,7527.77
+2024-02-09,East,Home & Garden,Candle Set,Bob Smith,1,139.58,0.0,139.58,74.88,64.7
+2023-04-21,West,Food & Beverage,Snack Mix,Frank Chen,44,124.57,0.0,5481.08,3211.17,2269.91
+2024-10-12,South,Sports,Running Shoes,Bob Smith,30,455.6,0.0,13668.0,8129.34,5538.66
+2023-11-08,North,Electronics,Smartphone,Alice Johnson,32,66.9,0.0,2140.8,1426.15,714.65
+2024-11-17,West,Clothing,Sneakers,Frank Chen,48,351.28,0.1,15175.3,7978.23,7197.07
+2024-09-22,North,Clothing,Sneakers,Henry Brown,27,470.14,0.0,12693.78,5202.1,7491.68
+2023-08-30,West,Food & Beverage,Protein Bar,Henry Brown,24,58.68,0.15,1197.07,610.75,586.32
+2023-07-14,West,Food & Beverage,Coffee Beans,Eva Martinez,8,475.02,0.2,3040.13,1630.77,1409.36
+2023-12-08,North,Clothing,Dress,Alice Johnson,16,494.52,0.2,6329.86,3604.05,2725.81
+2023-08-27,South,Electronics,Smart Watch,David Lee,22,389.44,0.2,6854.14,4593.37,2260.77
+2024-07-07,South,Electronics,Tablet,Carol White,17,401.27,0.0,6821.59,4081.48,2740.11
+2023-09-01,North,Electronics,Smartphone,Frank Chen,38,168.65,0.0,6408.7,3073.68,3335.02
+2024-05-02,North,Clothing,Sneakers,Bob Smith,29,391.23,0.1,10211.1,5903.03,4308.07
+2024-11-05,South,Home & Garden,Candle Set,Alice Johnson,34,157.8,0.15,4560.42,3143.08,1417.34
+2024-12-03,West,Electronics,Headphones,Grace Kim,7,250.23,0.05,1664.03,702.3,961.73
+2023-05-10,South,Electronics,Tablet,Bob Smith,18,315.92,0.1,5117.9,2889.09,2228.81
+2024-06-01,East,Food & Beverage,Energy Drink,Henry Brown,39,220.8,0.2,6888.96,4205.94,2683.02
+2023-08-22,West,Sports,Dumbbell,Henry Brown,27,176.08,0.05,4516.45,2346.83,2169.62
+2024-11-12,West,Electronics,Tablet,Frank Chen,17,193.41,0.0,3287.97,1992.66,1295.31
+2023-04-06,North,Home & Garden,Plant Pot,Bob Smith,28,57.32,0.15,1364.22,698.2,666.02
+2024-11-17,North,Clothing,Dress,Frank Chen,8,211.3,0.2,1352.32,810.85,541.47
+2023-12-27,East,Home & Garden,Plant Pot,Eva Martinez,7,293.18,0.0,2052.26,916.17,1136.09
+2024-07-23,North,Home & Garden,LED Lamp,Frank Chen,24,66.29,0.0,1590.96,910.4,680.56
+2023-01-30,North,Home & Garden,Candle Set,Eva Martinez,12,143.9,0.2,1381.44,680.63,700.81
+2023-05-27,North,Food & Beverage,Green Tea,Carol White,37,332.1,0.0,12287.7,5438.07,6849.63
+2024-03-05,South,Electronics,Laptop,Grace Kim,30,177.04,0.0,5311.2,2621.03,2690.17
+2023-06-09,North,Food & Beverage,Snack Mix,Alice Johnson,11,379.67,0.0,4176.37,2514.97,1661.4
+2024-09-13,West,Food & Beverage,Energy Drink,Henry Brown,29,212.95,0.0,6175.55,3868.88,2306.67
+2023-10-18,West,Electronics,Tablet,Bob Smith,44,342.46,0.05,14314.83,7988.82,6326.01
+2024-09-05,South,Food & Beverage,Coffee Beans,Grace Kim,4,13.77,0.0,55.08,37.65,17.43
+2023-05-03,East,Clothing,Jacket,Frank Chen,1,253.72,0.05,241.03,109.12,131.91
+2023-03-15,South,Home & Garden,Candle Set,Frank Chen,26,432.26,0.0,11238.76,5966.27,5272.49
+2024-08-10,East,Home & Garden,Plant Pot,Grace Kim,26,357.65,0.05,8833.95,4300.85,4533.1
+2024-09-24,East,Home & Garden,Plant Pot,Carol White,30,417.69,0.0,12530.7,5343.58,7187.12
+2024-06-20,West,Electronics,Smartphone,Grace Kim,6,203.93,0.0,1223.58,763.2,460.38
+2024-06-06,South,Clothing,Jacket,Bob Smith,41,65.87,0.1,2430.6,1113.63,1316.97
+2023-04-16,South,Food & Beverage,Green Tea,David Lee,10,135.42,0.0,1354.2,786.41,567.79
+2024-07-31,West,Electronics,Smartphone,Henry Brown,49,293.94,0.15,12242.6,8291.26,3951.34
+2023-06-04,East,Sports,Jump Rope,Frank Chen,29,43.46,0.05,1197.32,705.72,491.6
+2024-06-03,North,Food & Beverage,Snack Mix,Frank Chen,5,162.1,0.05,769.97,316.67,453.3
+2024-09-21,North,Food & Beverage,Green Tea,Bob Smith,39,258.46,0.05,9575.94,5497.54,4078.4
+2024-09-11,South,Electronics,Headphones,Frank Chen,31,255.67,0.0,7925.77,4241.53,3684.24
+2023-09-11,South,Food & Beverage,Coffee Beans,Alice Johnson,46,224.5,0.05,9810.65,5466.7,4343.95
+2023-10-17,East,Sports,Dumbbell,Frank Chen,25,210.3,0.0,5257.5,3173.79,2083.71
+2023-04-07,North,Electronics,Tablet,Frank Chen,36,342.41,0.0,12326.76,5862.59,6464.17
+2024-08-19,East,Sports,Dumbbell,Bob Smith,43,79.3,0.0,3409.9,1681.32,1728.58
+2024-07-26,North,Home & Garden,LED Lamp,Eva Martinez,25,325.31,0.0,8132.75,5237.13,2895.62
+2023-01-19,West,Sports,Yoga Mat,Frank Chen,24,161.34,0.0,3872.16,1945.84,1926.32
+2023-06-08,South,Home & Garden,LED Lamp,Carol White,5,154.94,0.2,619.76,266.71,353.05
+2024-09-24,North,Sports,Jump Rope,Frank Chen,9,302.65,0.0,2723.85,1222.12,1501.73
+2024-02-25,West,Sports,Dumbbell,Alice Johnson,24,341.42,0.0,8194.08,5661.1,2532.98
+2024-06-30,West,Sports,Running Shoes,David Lee,16,161.64,0.2,2068.99,1314.45,754.54
+2023-10-16,West,Clothing,Jacket,Henry Brown,50,197.12,0.1,8870.4,4662.27,4208.13
+2023-02-23,South,Clothing,Jeans,Eva Martinez,42,245.49,0.0,10310.58,5839.52,4471.06
+2023-03-27,North,Electronics,Smart Watch,Eva Martinez,49,88.55,0.05,4122.0,2768.3,1353.7
+2024-04-06,North,Clothing,Sneakers,David Lee,23,465.93,0.05,10180.57,4234.88,5945.69
+2023-03-25,South,Sports,Running Shoes,Grace Kim,24,120.02,0.0,2880.48,1956.56,923.92
+2023-10-21,South,Food & Beverage,Protein Bar,Alice Johnson,31,351.08,0.0,10883.48,6831.04,4052.44
+2023-01-20,North,Home & Garden,Wall Art,Bob Smith,17,115.67,0.0,1966.39,1110.3,856.09
+2023-10-23,West,Sports,Jump Rope,Bob Smith,16,157.56,0.0,2520.96,1188.71,1332.25
+2024-05-26,North,Sports,Water Bottle,Bob Smith,39,272.67,0.15,9039.01,5013.15,4025.86
+2023-01-02,East,Clothing,Jeans,Grace Kim,40,182.88,0.1,6583.68,3456.24,3127.44
+2024-06-22,East,Electronics,Smart Watch,Bob Smith,35,258.59,0.1,8145.59,4612.4,3533.19
+2024-01-18,North,Home & Garden,Wall Art,Grace Kim,17,376.19,0.0,6395.23,4070.92,2324.31
+2023-05-17,North,Food & Beverage,Protein Bar,Frank Chen,3,182.63,0.0,547.89,352.87,195.02
+2023-05-19,West,Clothing,Sneakers,Carol White,5,360.86,0.05,1714.09,704.65,1009.44
+2023-11-20,South,Clothing,T-Shirt,Alice Johnson,20,262.54,0.2,4200.64,2364.58,1836.06
+2024-01-01,South,Food & Beverage,Coffee Beans,Eva Martinez,50,33.42,0.15,1420.35,709.57,710.78
+2024-03-26,West,Electronics,Tablet,Grace Kim,25,176.13,0.0,4403.25,2416.77,1986.48
+2024-03-10,East,Home & Garden,Throw Pillow,Bob Smith,6,221.0,0.2,1060.8,481.75,579.05
+2023-12-02,North,Food & Beverage,Green Tea,Bob Smith,43,154.86,0.05,6326.03,3674.07,2651.96
+2024-04-02,West,Home & Garden,LED Lamp,Frank Chen,3,366.14,0.0,1098.42,641.98,456.44
+2024-11-18,North,Home & Garden,Throw Pillow,Bob Smith,41,209.04,0.1,7713.58,4939.23,2774.35
+2023-02-05,South,Clothing,T-Shirt,Henry Brown,9,42.94,0.2,309.17,183.51,125.66
+2024-11-26,North,Food & Beverage,Energy Drink,Carol White,29,474.92,0.0,13772.68,7343.34,6429.34
+2024-02-12,South,Electronics,Smart Watch,Frank Chen,21,328.28,0.0,6893.88,4744.06,2149.82
+2024-07-29,West,Electronics,Smartphone,Grace Kim,8,138.27,0.0,1106.16,676.1,430.06
+2023-07-24,East,Clothing,Dress,Henry Brown,8,76.51,0.0,612.08,327.84,284.24
+2024-12-27,East,Home & Garden,Plant Pot,Frank Chen,5,279.5,0.0,1397.5,932.69,464.81
+2023-05-05,East,Clothing,Jeans,David Lee,13,398.11,0.0,5175.43,3297.33,1878.1
+2024-07-18,East,Electronics,Tablet,Henry Brown,9,309.85,0.0,2788.65,1170.46,1618.19
+2024-08-11,West,Home & Garden,Wall Art,Grace Kim,5,71.41,0.0,357.05,211.62,145.43
+2024-07-18,East,Home & Garden,Wall Art,Carol White,41,298.02,0.2,9775.06,6743.61,3031.45
+2024-06-14,North,Home & Garden,Candle Set,Bob Smith,10,159.02,0.0,1590.2,790.01,800.19
+2023-09-14,East,Clothing,Jacket,Bob Smith,13,321.18,0.1,3757.81,1812.52,1945.29
+2024-08-29,North,Food & Beverage,Snack Mix,Carol White,38,85.56,0.15,2763.59,1623.18,1140.41
+2023-03-25,North,Sports,Running Shoes,Alice Johnson,3,474.79,0.2,1139.5,652.97,486.53
+2024-05-24,West,Clothing,Dress,Alice Johnson,41,277.33,0.15,9664.95,6639.77,3025.18
+2024-04-09,West,Home & Garden,LED Lamp,Eva Martinez,5,347.42,0.0,1737.1,923.93,813.17
+2024-09-13,South,Home & Garden,Wall Art,Frank Chen,10,163.17,0.15,1386.94,687.64,699.3
+2024-06-11,South,Food & Beverage,Energy Drink,Frank Chen,36,62.03,0.0,2233.08,1205.73,1027.35
+2023-04-10,South,Food & Beverage,Energy Drink,Carol White,4,152.2,0.05,578.36,381.28,197.08
+2024-08-14,South,Home & Garden,LED Lamp,Frank Chen,47,163.23,0.2,6137.45,2748.37,3389.08
+2024-05-24,West,Sports,Water Bottle,Eva Martinez,2,54.12,0.05,102.83,56.72,46.11
+2023-02-21,East,Clothing,Jeans,Alice Johnson,19,252.5,0.2,3838.0,2288.52,1549.48
+2024-03-17,North,Home & Garden,Throw Pillow,Bob Smith,9,442.4,0.15,3384.36,1725.12,1659.24
+2023-02-22,North,Home & Garden,Throw Pillow,Grace Kim,37,285.29,0.0,10555.73,5974.19,4581.54
+2024-09-30,West,Electronics,Headphones,Eva Martinez,44,309.41,0.0,13614.04,9428.06,4185.98
+2023-05-28,East,Home & Garden,Throw Pillow,Frank Chen,13,305.21,0.05,3769.34,2073.23,1696.11
+2024-04-30,South,Electronics,Laptop,Frank Chen,34,233.92,0.1,7157.95,4781.08,2376.87
+2024-02-07,East,Clothing,Jacket,Carol White,40,372.27,0.0,14890.8,8608.63,6282.17
+2024-05-01,West,Sports,Jump Rope,Eva Martinez,2,190.5,0.15,323.85,140.19,183.66
+2024-09-03,East,Home & Garden,Candle Set,Alice Johnson,31,140.11,0.15,3691.9,2343.88,1348.02
+2024-08-20,South,Sports,Jump Rope,Alice Johnson,31,93.55,0.15,2465.04,1519.34,945.7
+2024-08-09,South,Home & Garden,LED Lamp,Alice Johnson,45,63.85,0.0,2873.25,1529.46,1343.79
+2024-02-25,West,Home & Garden,LED Lamp,David Lee,33,389.74,0.05,12218.35,8086.66,4131.69
+2024-11-09,South,Electronics,Smartphone,Frank Chen,31,267.48,0.0,8291.88,5696.57,2595.31
+2024-11-23,East,Home & Garden,Candle Set,Frank Chen,50,435.15,0.15,18493.88,10966.74,7527.14
+2023-09-10,West,Food & Beverage,Snack Mix,David Lee,18,283.46,0.0,5102.28,3482.03,1620.25
+2023-11-21,South,Food & Beverage,Green Tea,Henry Brown,31,180.91,0.2,4486.57,2765.97,1720.6
+2023-12-20,West,Food & Beverage,Coffee Beans,Grace Kim,50,404.26,0.0,20213.0,8340.29,11872.71
+2024-05-05,West,Electronics,Tablet,Eva Martinez,14,109.01,0.1,1373.53,661.13,712.4
+2024-09-22,South,Sports,Running Shoes,Bob Smith,48,297.55,0.0,14282.4,5930.48,8351.92
+2023-04-13,South,Sports,Dumbbell,Alice Johnson,27,171.84,0.05,4407.7,1896.03,2511.67
+2024-10-30,South,Clothing,T-Shirt,Grace Kim,31,243.95,0.0,7562.45,4739.94,2822.51
+2023-04-02,East,Food & Beverage,Green Tea,Alice Johnson,42,291.33,0.1,11012.27,6845.29,4166.98
+2023-02-07,West,Electronics,Smartphone,Carol White,26,396.1,0.0,10298.6,7013.17,3285.43
+2024-08-04,North,Food & Beverage,Coffee Beans,Eva Martinez,39,62.58,0.0,2440.62,1184.6,1256.02
+2024-05-31,West,Sports,Jump Rope,Carol White,30,143.69,0.2,3448.56,1495.96,1952.6
+2023-01-15,East,Clothing,Sneakers,Carol White,48,175.18,0.0,8408.64,4795.74,3612.9
+2024-06-11,West,Clothing,Jeans,Grace Kim,21,52.5,0.15,937.12,401.66,535.46
+2023-01-07,East,Clothing,Sneakers,David Lee,17,197.95,0.05,3196.89,2001.66,1195.23
+2024-10-31,North,Food & Beverage,Green Tea,Eva Martinez,24,349.46,0.0,8387.04,5035.04,3352.0
+2024-12-03,South,Home & Garden,Throw Pillow,Grace Kim,33,462.32,0.15,12968.08,8182.24,4785.84
+2023-08-13,East,Electronics,Tablet,David Lee,9,244.31,0.05,2088.85,1304.11,784.74
+2024-07-04,West,Sports,Running Shoes,Henry Brown,43,414.55,0.2,14260.52,6762.9,7497.62
+2023-03-21,West,Sports,Yoga Mat,Frank Chen,37,64.98,0.2,1923.41,1085.37,838.04
+2023-12-02,South,Sports,Dumbbell,Carol White,34,226.5,0.15,6545.85,3021.7,3524.15
+2023-02-26,North,Sports,Water Bottle,Henry Brown,30,74.65,0.05,2127.53,1142.57,984.96
+2023-01-23,West,Electronics,Smart Watch,Eva Martinez,26,134.68,0.0,3501.68,2184.14,1317.54
+2023-12-19,North,Sports,Yoga Mat,Grace Kim,45,41.24,0.0,1855.8,1262.64,593.16
+2024-02-23,North,Electronics,Headphones,Eva Martinez,12,386.8,0.2,3713.28,2199.96,1513.32
+2024-01-22,West,Home & Garden,Throw Pillow,Henry Brown,25,49.32,0.15,1048.05,694.19,353.86
+2024-07-04,North,Clothing,Jacket,Carol White,26,269.13,0.15,5947.77,4125.48,1822.29
+2024-11-20,East,Electronics,Laptop,Henry Brown,47,276.78,0.1,11707.79,6015.26,5692.53
+2023-06-08,West,Clothing,Jeans,Frank Chen,18,102.36,0.15,1566.11,986.1,580.01
+2023-07-31,North,Electronics,Headphones,David Lee,5,59.44,0.0,297.2,158.68,138.52
+2024-03-25,North,Electronics,Smartphone,Grace Kim,15,274.48,0.2,3293.76,2170.98,1122.78
+2024-08-12,East,Electronics,Smartphone,David Lee,21,292.96,0.2,4921.73,2961.7,1960.03
+2024-11-07,East,Food & Beverage,Protein Bar,Carol White,34,118.31,0.0,4022.54,1941.06,2081.48
+2024-07-23,South,Sports,Jump Rope,Grace Kim,32,32.97,0.0,1055.04,720.04,335.0
+2024-02-23,East,Home & Garden,Candle Set,Grace Kim,10,156.95,0.0,1569.5,983.02,586.48
+2024-12-25,South,Home & Garden,LED Lamp,Eva Martinez,10,404.83,0.0,4048.3,2302.33,1745.97
+2023-09-06,South,Home & Garden,Candle Set,Grace Kim,17,109.63,0.15,1584.15,671.24,912.91
+2023-02-22,North,Home & Garden,Throw Pillow,David Lee,18,194.81,0.1,3155.92,1833.2,1322.72
+2023-08-02,South,Electronics,Smartphone,Henry Brown,22,158.56,0.0,3488.32,1616.98,1871.34
+2024-12-13,West,Clothing,T-Shirt,David Lee,39,354.85,0.05,13147.19,8868.28,4278.91
+2024-04-22,East,Sports,Running Shoes,Grace Kim,35,327.87,0.0,11475.45,5490.64,5984.81
+2024-04-25,West,Sports,Water Bottle,Bob Smith,49,421.47,0.0,20652.03,10557.55,10094.48
+2023-01-17,South,Home & Garden,Plant Pot,Carol White,17,281.12,0.1,4301.14,2467.75,1833.39
+2023-12-04,South,Home & Garden,Throw Pillow,David Lee,15,196.12,0.2,2353.44,1114.87,1238.57
+2024-10-19,East,Sports,Running Shoes,Henry Brown,48,250.39,0.0,12018.72,7449.58,4569.14
+2023-07-08,South,Food & Beverage,Protein Bar,Henry Brown,35,495.26,0.0,17334.1,9658.27,7675.83
+2023-05-21,North,Electronics,Laptop,Grace Kim,41,123.4,0.15,4300.49,1915.05,2385.44
+2023-03-03,West,Clothing,Dress,Frank Chen,40,322.49,0.1,11609.64,7822.87,3786.77
+2023-01-13,North,Home & Garden,Plant Pot,Grace Kim,2,269.41,0.0,538.82,302.13,236.69
+2023-04-20,West,Food & Beverage,Coffee Beans,Carol White,7,266.95,0.0,1868.65,855.06,1013.59
+2024-02-11,East,Sports,Running Shoes,Eva Martinez,6,192.8,0.05,1098.96,590.91,508.05
+2024-10-31,East,Clothing,Jeans,Bob Smith,42,382.2,0.0,16052.4,8372.67,7679.73
+2024-10-14,West,Home & Garden,Candle Set,Alice Johnson,1,354.39,0.0,354.39,194.9,159.49
+2023-08-24,North,Home & Garden,Throw Pillow,Alice Johnson,14,451.62,0.15,5374.28,3580.7,1793.58
+2024-12-01,North,Home & Garden,Throw Pillow,Bob Smith,18,450.66,0.1,7300.69,4361.67,2939.02
+2024-08-24,North,Clothing,Jacket,David Lee,10,378.6,0.15,3218.1,2079.76,1138.34
+2024-08-03,South,Electronics,Tablet,David Lee,25,341.75,0.1,7689.38,3840.99,3848.39
+2023-04-11,East,Clothing,T-Shirt,Alice Johnson,28,123.75,0.0,3465.0,1740.05,1724.95
+2023-01-31,West,Sports,Jump Rope,Frank Chen,41,143.93,0.05,5606.07,3067.54,2538.53
+2023-07-10,West,Food & Beverage,Snack Mix,Grace Kim,44,297.08,0.05,12417.94,5286.42,7131.52
+2023-03-26,South,Sports,Running Shoes,Bob Smith,18,85.57,0.15,1309.22,831.57,477.65
+2023-04-20,East,Clothing,Sneakers,Frank Chen,6,12.55,0.0,75.3,40.17,35.13
+2023-07-11,South,Food & Beverage,Coffee Beans,Bob Smith,28,229.93,0.1,5794.24,3208.46,2585.78
+2024-07-21,North,Electronics,Laptop,Frank Chen,6,302.49,0.2,1451.95,722.1,729.85
+2024-02-02,East,Home & Garden,Plant Pot,Grace Kim,50,51.5,0.1,2317.5,1556.35,761.15
+2023-06-23,South,Clothing,Dress,Grace Kim,9,141.77,0.0,1275.93,699.13,576.8
+2024-03-07,West,Electronics,Smartphone,Eva Martinez,20,247.27,0.0,4945.4,2513.93,2431.47
+2023-04-20,South,Clothing,Sneakers,Henry Brown,9,159.28,0.05,1361.84,680.46,681.38
+2023-12-09,East,Sports,Water Bottle,Henry Brown,28,409.58,0.2,9174.59,5461.73,3712.86
+2024-09-09,East,Sports,Dumbbell,Frank Chen,45,108.42,0.0,4878.9,2211.56,2667.34
+2024-08-12,East,Home & Garden,Throw Pillow,Henry Brown,16,169.68,0.0,2714.88,1750.96,963.92
+2024-08-29,North,Home & Garden,Throw Pillow,David Lee,35,98.16,0.2,2748.48,1552.97,1195.51
+2024-12-10,West,Home & Garden,LED Lamp,Eva Martinez,5,411.29,0.2,1645.16,1050.46,594.7
+2023-09-16,East,Home & Garden,LED Lamp,David Lee,43,85.53,0.05,3493.9,2224.65,1269.25
+2024-07-01,West,Electronics,Headphones,Grace Kim,33,462.51,0.2,12210.26,7417.89,4792.37
+2023-04-22,East,Sports,Yoga Mat,Bob Smith,50,131.63,0.15,5594.27,2833.51,2760.76
+2024-03-16,West,Sports,Yoga Mat,Frank Chen,7,15.17,0.0,106.19,49.55,56.64
+2024-01-19,South,Sports,Jump Rope,Henry Brown,26,236.9,0.15,5235.49,3018.66,2216.83
+2024-05-09,East,Sports,Dumbbell,Alice Johnson,7,154.76,0.0,1083.32,471.05,612.27
+2024-04-11,East,Clothing,Jacket,Frank Chen,14,265.35,0.0,3714.9,2016.63,1698.27
+2023-11-04,East,Home & Garden,Wall Art,Bob Smith,3,406.99,0.0,1220.97,496.66,724.31
+2024-06-12,South,Food & Beverage,Coffee Beans,David Lee,12,280.44,0.0,3365.28,1911.33,1453.95
+2023-07-10,West,Home & Garden,LED Lamp,Carol White,41,332.08,0.05,12934.52,5287.08,7647.44
+2024-02-03,West,Sports,Dumbbell,Grace Kim,1,355.32,0.0,355.32,171.8,183.52
+2024-01-10,North,Electronics,Smart Watch,Carol White,21,106.57,0.0,2237.97,1071.33,1166.64
+2024-09-17,East,Home & Garden,Candle Set,Grace Kim,26,297.63,0.0,7738.38,3912.49,3825.89
+2024-09-21,South,Home & Garden,Candle Set,Eva Martinez,38,51.53,0.0,1958.14,967.23,990.91
+2024-01-18,North,Clothing,Jacket,Carol White,45,79.27,0.05,3388.79,1780.71,1608.08
+2023-07-10,West,Clothing,Dress,Grace Kim,32,321.4,0.15,8742.08,5907.45,2834.63
+2023-10-23,South,Clothing,Dress,Henry Brown,9,101.68,0.2,732.1,391.89,340.21
+2023-05-20,North,Electronics,Tablet,Henry Brown,13,409.46,0.1,4790.68,2642.69,2147.99
+2024-12-28,West,Home & Garden,Wall Art,Grace Kim,29,249.46,0.0,7234.34,4120.82,3113.52
+2023-08-19,North,Clothing,Jacket,Eva Martinez,35,151.45,0.2,4240.6,2278.04,1962.56
+2023-10-02,North,Home & Garden,Candle Set,Bob Smith,50,276.12,0.0,13806.0,7767.44,6038.56
+2023-04-15,South,Electronics,Headphones,Grace Kim,48,416.73,0.2,16002.43,7589.3,8413.13
+2023-03-31,East,Electronics,Headphones,Frank Chen,29,433.99,0.0,12585.71,7962.85,4622.86
+2023-06-19,East,Clothing,Jeans,Grace Kim,40,78.23,0.0,3129.2,2015.39,1113.81
+2024-09-03,East,Electronics,Smart Watch,Eva Martinez,35,92.5,0.15,2751.88,1342.34,1409.54
+2024-02-26,North,Sports,Running Shoes,Carol White,4,496.32,0.2,1588.22,947.8,640.42
+2023-09-11,South,Clothing,Jeans,Frank Chen,49,423.34,0.05,19706.48,10776.24,8930.24
+2024-04-07,West,Sports,Running Shoes,Grace Kim,5,320.48,0.2,1281.92,548.57,733.35
+2024-05-14,East,Sports,Running Shoes,Henry Brown,21,295.16,0.2,4958.69,3135.09,1823.6
+2024-07-01,East,Electronics,Headphones,Bob Smith,26,116.74,0.05,2883.48,1866.92,1016.56
+2023-12-12,East,Home & Garden,Throw Pillow,Eva Martinez,36,293.19,0.1,9499.36,6228.98,3270.38
+2024-10-03,North,Food & Beverage,Coffee Beans,Bob Smith,30,17.98,0.2,431.52,193.06,238.46
+2024-12-06,West,Home & Garden,Plant Pot,David Lee,9,442.25,0.0,3980.25,1781.93,2198.32
+2023-03-26,East,Food & Beverage,Coffee Beans,Eva Martinez,24,335.61,0.15,6846.44,3078.55,3767.89
+2024-11-02,South,Home & Garden,Throw Pillow,Grace Kim,6,354.81,0.0,2128.86,987.85,1141.01
+2023-01-10,South,Electronics,Smartphone,Henry Brown,1,350.84,0.2,280.67,122.42,158.25
+2023-08-23,West,Home & Garden,LED Lamp,Bob Smith,25,53.77,0.2,1075.4,463.21,612.19
+2024-01-27,East,Food & Beverage,Green Tea,Carol White,50,408.55,0.2,16342.0,7189.56,9152.44
+2024-03-26,North,Clothing,T-Shirt,Carol White,23,363.99,0.15,7116.0,4443.8,2672.2
+2023-03-30,West,Home & Garden,Candle Set,David Lee,7,78.61,0.0,550.27,317.44,232.83
+2023-05-24,West,Home & Garden,Throw Pillow,Frank Chen,16,145.71,0.0,2331.36,1106.11,1225.25
+2024-11-05,East,Sports,Jump Rope,Alice Johnson,20,110.67,0.1,1992.06,1101.32,890.74
+2024-05-21,North,Home & Garden,Throw Pillow,David Lee,25,65.24,0.05,1549.45,916.38,633.07
+2023-11-21,North,Electronics,Smart Watch,Frank Chen,9,199.55,0.2,1436.76,819.69,617.07
+2023-03-16,South,Food & Beverage,Snack Mix,Henry Brown,2,297.81,0.0,595.62,285.1,310.52
+2024-10-05,West,Electronics,Laptop,Eva Martinez,46,255.51,0.05,11165.79,5885.18,5280.61
+2023-03-27,South,Home & Garden,Plant Pot,Eva Martinez,20,48.72,0.0,974.4,674.57,299.83
+2024-08-23,East,Clothing,Dress,Grace Kim,41,383.98,0.15,13381.7,8086.78,5294.92
+2023-03-01,West,Electronics,Tablet,David Lee,16,52.24,0.05,794.05,345.25,448.8
+2024-11-13,North,Sports,Jump Rope,Eva Martinez,48,332.45,0.0,15957.6,6954.85,9002.75
+2023-12-22,South,Clothing,T-Shirt,Henry Brown,34,263.44,0.2,7165.57,4415.64,2749.93
+2023-05-01,South,Clothing,Jacket,Eva Martinez,50,450.95,0.0,22547.5,14478.48,8069.02
+2024-12-30,North,Food & Beverage,Snack Mix,Eva Martinez,37,317.49,0.05,11159.77,5987.88,5171.89
+2024-01-12,West,Food & Beverage,Coffee Beans,Carol White,11,135.01,0.0,1485.11,992.47,492.64
+2023-01-13,North,Electronics,Smartphone,Alice Johnson,16,32.53,0.0,520.48,267.99,252.49
+2023-08-18,North,Clothing,Jeans,Grace Kim,21,131.65,0.15,2349.95,1165.53,1184.42
+2024-05-29,East,Electronics,Smart Watch,Bob Smith,44,451.95,0.0,19885.8,9285.78,10600.02
+2024-04-21,West,Sports,Yoga Mat,Bob Smith,19,389.03,0.0,7391.57,3682.41,3709.16
+2023-07-25,North,Sports,Water Bottle,Frank Chen,19,286.27,0.0,5439.13,3382.45,2056.68
+2023-07-20,East,Clothing,Sneakers,Henry Brown,47,451.22,0.2,16965.87,10837.66,6128.21
+2023-08-27,West,Clothing,T-Shirt,Alice Johnson,35,179.75,0.2,5033.0,3060.26,1972.74
+2023-11-11,North,Electronics,Tablet,Grace Kim,7,110.55,0.0,773.85,407.0,366.85
+2023-02-14,East,Electronics,Smartphone,Bob Smith,15,449.67,0.1,6070.55,3180.46,2890.09
+2024-06-01,North,Food & Beverage,Energy Drink,Bob Smith,9,322.24,0.05,2755.15,1163.91,1591.24
+2023-08-31,West,Sports,Yoga Mat,Carol White,19,137.89,0.0,2619.91,1775.81,844.1
+2023-10-06,East,Home & Garden,Throw Pillow,Henry Brown,15,46.6,0.0,699.0,308.14,390.86
+2023-06-18,South,Sports,Yoga Mat,Bob Smith,29,238.37,0.05,6567.09,2864.7,3702.39
+2024-04-19,West,Food & Beverage,Protein Bar,Eva Martinez,17,427.72,0.0,7271.24,3252.31,4018.93
+2023-12-02,North,Food & Beverage,Snack Mix,David Lee,10,54.69,0.0,546.9,377.65,169.25
+2023-09-24,North,Home & Garden,Candle Set,Eva Martinez,12,25.23,0.05,287.62,188.79,98.83
+2024-04-18,South,Sports,Jump Rope,Bob Smith,7,403.91,0.0,2827.37,1233.97,1593.4
+2024-02-15,South,Electronics,Smartphone,David Lee,24,346.28,0.15,7064.11,3003.74,4060.37
+2023-03-08,North,Sports,Running Shoes,Alice Johnson,13,452.22,0.05,5584.92,3589.93,1994.99
+2024-04-17,North,Electronics,Tablet,Alice Johnson,4,92.31,0.1,332.32,176.11,156.21
+2024-11-30,North,Home & Garden,Wall Art,Grace Kim,28,94.68,0.0,2651.04,1782.8,868.24
+2023-02-05,West,Food & Beverage,Green Tea,Carol White,40,313.4,0.0,12536.0,7448.68,5087.32
+2023-03-31,West,Home & Garden,Wall Art,Alice Johnson,18,197.68,0.05,3380.33,1554.4,1825.93
+2024-12-31,North,Sports,Dumbbell,Grace Kim,23,245.05,0.2,4508.92,2459.18,2049.74
+2023-10-04,East,Sports,Jump Rope,Grace Kim,12,22.77,0.1,245.92,114.53,131.39
+2024-08-21,West,Food & Beverage,Coffee Beans,Frank Chen,15,487.25,0.0,7308.75,3466.96,3841.79
+2024-08-12,North,Clothing,Jacket,David Lee,25,183.85,0.2,3677.0,2564.57,1112.43
+2024-12-15,South,Clothing,Jeans,Frank Chen,23,457.85,0.0,10530.55,6434.54,4096.01
+2024-05-19,South,Food & Beverage,Snack Mix,David Lee,35,161.44,0.05,5367.88,2208.29,3159.59
+2024-06-23,South,Electronics,Smartphone,Alice Johnson,31,10.33,0.1,288.21,132.7,155.51
+2023-03-02,South,Clothing,Jacket,Frank Chen,2,82.38,0.15,140.05,94.56,45.49
+2024-01-18,East,Electronics,Smart Watch,Bob Smith,46,471.54,0.05,20606.3,11865.21,8741.09
+2023-06-11,East,Food & Beverage,Green Tea,Carol White,47,474.86,0.2,17854.74,10566.07,7288.67
+2023-08-17,South,Home & Garden,Throw Pillow,Frank Chen,43,298.59,0.0,12839.37,6593.21,6246.16
+2024-12-19,South,Food & Beverage,Protein Bar,Alice Johnson,37,201.88,0.2,5975.65,4120.54,1855.11
+2024-10-16,East,Electronics,Smartphone,David Lee,37,61.01,0.05,2144.5,948.28,1196.22
+2023-06-21,East,Electronics,Smartphone,Frank Chen,41,443.81,0.0,18196.21,11763.82,6432.39
+2023-08-03,North,Food & Beverage,Energy Drink,Eva Martinez,16,349.66,0.0,5594.56,2668.59,2925.97
+2024-03-24,North,Electronics,Laptop,Grace Kim,47,215.63,0.0,10134.61,6743.22,3391.39
+2023-04-14,East,Home & Garden,Wall Art,Grace Kim,31,396.48,0.1,11061.79,6584.98,4476.81
+2023-02-04,West,Clothing,Jeans,Bob Smith,19,19.84,0.0,376.96,258.41,118.55
+2023-06-14,South,Electronics,Tablet,Grace Kim,47,46.75,0.0,2197.25,1101.67,1095.58
+2024-10-31,North,Sports,Water Bottle,Grace Kim,11,307.59,0.05,3214.32,1437.22,1777.1
+2024-02-24,South,Electronics,Tablet,David Lee,45,281.52,0.15,10768.14,6052.1,4716.04
+2023-02-20,South,Food & Beverage,Green Tea,Bob Smith,26,290.17,0.2,6035.54,3303.16,2732.38
+2023-03-31,North,Electronics,Tablet,Grace Kim,19,413.71,0.15,6681.42,3875.66,2805.76
+2023-06-24,North,Clothing,T-Shirt,David Lee,41,152.99,0.0,6272.59,3400.19,2872.4
+2024-05-15,West,Electronics,Tablet,Henry Brown,43,139.85,0.15,5111.52,2879.0,2232.52
+2023-07-11,West,Clothing,Jacket,Frank Chen,29,31.86,0.05,877.74,473.56,404.18
+2024-12-14,North,Clothing,Jacket,Carol White,43,57.38,0.15,2097.24,1055.2,1042.04
+2024-02-01,South,Sports,Water Bottle,Alice Johnson,34,215.13,0.1,6582.98,3990.08,2592.9
+2023-11-03,South,Home & Garden,Candle Set,Henry Brown,6,203.45,0.2,976.56,599.89,376.67
+2024-04-04,South,Sports,Jump Rope,Bob Smith,12,475.04,0.0,5700.48,3942.73,1757.75
+2023-03-22,North,Clothing,Jeans,Grace Kim,44,223.34,0.2,7861.57,4623.92,3237.65
+2023-03-31,East,Sports,Running Shoes,Bob Smith,25,282.62,0.1,6358.95,3165.73,3193.22
+2024-12-18,West,Food & Beverage,Snack Mix,Alice Johnson,40,297.91,0.2,9533.12,5013.26,4519.86
+2023-04-19,South,Home & Garden,LED Lamp,Bob Smith,37,391.98,0.2,11602.61,5636.87,5965.74
+2024-01-28,West,Sports,Running Shoes,Eva Martinez,42,247.94,0.1,9372.13,5078.89,4293.24
+2024-09-25,West,Clothing,Jacket,Carol White,39,343.6,0.05,12730.38,5240.27,7490.11
+2023-10-03,North,Food & Beverage,Protein Bar,Henry Brown,24,19.91,0.2,382.27,243.92,138.35
+2023-08-22,West,Food & Beverage,Green Tea,Bob Smith,9,157.24,0.15,1202.89,641.06,561.83
+2023-07-12,West,Food & Beverage,Green Tea,Bob Smith,29,113.58,0.2,2635.06,1375.9,1259.16
+2024-06-11,East,Home & Garden,Candle Set,Alice Johnson,11,42.15,0.15,394.1,217.56,176.54
+2023-07-17,North,Clothing,Dress,Carol White,13,420.12,0.0,5461.56,2238.81,3222.75
+2024-01-13,South,Electronics,Tablet,Eva Martinez,30,257.51,0.15,6566.5,4445.01,2121.49
+2024-08-31,East,Electronics,Smartphone,Henry Brown,29,97.02,0.2,2250.86,1220.81,1030.05
+2023-09-22,East,Sports,Running Shoes,Carol White,48,417.13,0.0,20022.24,9721.21,10301.03
+2023-08-15,South,Home & Garden,Plant Pot,David Lee,42,120.3,0.0,5052.6,2428.91,2623.69
+2024-04-30,North,Home & Garden,Candle Set,Alice Johnson,9,327.21,0.1,2650.4,1696.94,953.46
+2024-03-09,East,Clothing,Jacket,Eva Martinez,25,427.28,0.05,10147.9,4826.34,5321.56
+2023-01-08,West,Home & Garden,Throw Pillow,Bob Smith,33,499.72,0.2,13192.61,8599.12,4593.49
+2024-12-01,East,Sports,Jump Rope,Eva Martinez,7,246.05,0.0,1722.35,1199.63,522.72
+2023-07-12,East,Food & Beverage,Green Tea,Eva Martinez,10,263.47,0.0,2634.7,1765.0,869.7
+2023-01-27,East,Sports,Water Bottle,Carol White,42,253.71,0.0,10655.82,5091.65,5564.17
+2024-08-20,West,Home & Garden,Wall Art,Alice Johnson,46,497.43,0.2,18305.42,8365.11,9940.31
+2024-06-03,West,Clothing,Dress,Frank Chen,20,424.26,0.2,6788.16,4054.46,2733.7
+2024-04-27,East,Sports,Dumbbell,Bob Smith,9,373.05,0.15,2853.83,1833.59,1020.24
+2023-12-30,North,Clothing,Jacket,David Lee,15,374.66,0.0,5619.9,2956.86,2663.04
+2024-04-19,East,Food & Beverage,Green Tea,Eva Martinez,8,240.56,0.2,1539.58,908.84,630.74
+2023-07-19,North,Sports,Jump Rope,Henry Brown,33,68.71,0.15,1927.32,991.61,935.71
+2023-05-21,North,Food & Beverage,Energy Drink,Carol White,13,177.91,0.1,2081.55,1390.17,691.38
+2023-03-24,East,Home & Garden,LED Lamp,Carol White,32,172.99,0.0,5535.68,2734.76,2800.92
+2023-08-03,West,Electronics,Laptop,Eva Martinez,49,389.04,0.1,17156.66,10797.46,6359.2
+2024-10-10,South,Home & Garden,Plant Pot,Grace Kim,28,207.66,0.05,5523.76,2844.71,2679.05
+2023-01-15,South,Electronics,Smart Watch,Frank Chen,21,380.86,0.1,7198.25,3290.85,3907.4
+2023-11-16,South,Electronics,Smartphone,Frank Chen,9,60.33,0.1,488.67,281.77,206.9
+2023-10-25,North,Clothing,T-Shirt,Eva Martinez,30,366.64,0.1,9899.28,5516.23,4383.05
+2024-01-03,East,Home & Garden,LED Lamp,Henry Brown,49,102.33,0.2,4011.34,2089.98,1921.36
+2023-01-23,South,Clothing,Jeans,David Lee,38,257.27,0.0,9776.26,4985.67,4790.59
+2024-08-31,East,Electronics,Headphones,Alice Johnson,4,334.37,0.15,1136.86,739.91,396.95
+2024-01-25,West,Electronics,Laptop,Henry Brown,8,278.17,0.05,2114.09,1290.78,823.31
+2024-11-08,East,Clothing,T-Shirt,Grace Kim,7,334.62,0.0,2342.34,1374.58,967.76
+2023-10-17,North,Clothing,Sneakers,Bob Smith,8,394.53,0.05,2998.43,1378.06,1620.37
+2024-12-21,South,Clothing,Jacket,Frank Chen,27,154.72,0.0,4177.44,2357.92,1819.52
+2023-01-03,East,Clothing,Sneakers,David Lee,1,339.1,0.0,339.1,220.61,118.49
+2023-04-14,North,Home & Garden,LED Lamp,Bob Smith,17,325.73,0.05,5260.54,3664.49,1596.05
+2023-04-13,West,Food & Beverage,Green Tea,Alice Johnson,12,438.33,0.2,4207.97,2050.0,2157.97
+2023-02-16,North,Food & Beverage,Energy Drink,Bob Smith,1,427.48,0.15,363.36,215.89,147.47
+2023-04-06,West,Food & Beverage,Green Tea,Eva Martinez,24,409.33,0.0,9823.92,4265.05,5558.87
+2024-12-07,East,Home & Garden,Wall Art,Grace Kim,31,401.95,0.15,10591.38,7052.13,3539.25
+2023-06-13,South,Clothing,T-Shirt,Alice Johnson,7,213.85,0.1,1347.26,733.99,613.27
+2024-01-03,South,Sports,Water Bottle,Grace Kim,40,24.12,0.15,820.08,544.52,275.56
+2024-02-26,West,Clothing,Sneakers,Bob Smith,29,32.53,0.0,943.37,562.71,380.66
+2024-06-15,South,Electronics,Smart Watch,Frank Chen,34,347.24,0.1,10625.54,4553.82,6071.72
+2023-06-02,East,Clothing,Sneakers,Grace Kim,36,447.11,0.1,14486.36,6031.68,8454.68
+2023-06-19,West,Clothing,Dress,Henry Brown,5,378.2,0.0,1891.0,893.06,997.94
+2024-02-17,South,Food & Beverage,Coffee Beans,Grace Kim,16,48.63,0.05,739.18,473.35,265.83
+2023-11-20,West,Home & Garden,Plant Pot,Henry Brown,8,490.53,0.15,3335.6,1988.06,1347.54
+2024-07-24,West,Electronics,Headphones,Alice Johnson,36,10.08,0.0,362.88,231.35,131.53
+2023-12-16,South,Sports,Running Shoes,Henry Brown,24,414.4,0.2,7956.48,3714.69,4241.79
+2024-04-08,West,Home & Garden,Throw Pillow,Frank Chen,8,57.74,0.15,392.63,183.17,209.46
+2024-12-19,East,Food & Beverage,Green Tea,Frank Chen,7,32.43,0.0,227.01,124.34,102.67
+2023-07-12,East,Home & Garden,Plant Pot,David Lee,8,465.81,0.05,3540.16,1645.03,1895.13
+2023-02-17,North,Clothing,Jacket,Grace Kim,41,420.36,0.1,15511.28,6777.9,8733.38
+2023-01-05,South,Home & Garden,Wall Art,Henry Brown,34,370.74,0.1,11344.64,7721.08,3623.56
+2023-05-12,South,Sports,Water Bottle,Carol White,7,199.83,0.1,1258.93,732.51,526.42
+2024-09-15,West,Food & Beverage,Snack Mix,Grace Kim,45,383.56,0.0,17260.2,8964.27,8295.93
+2023-05-22,West,Food & Beverage,Green Tea,Carol White,27,305.24,0.15,7005.26,3878.73,3126.53
+2023-08-03,South,Sports,Running Shoes,David Lee,40,360.05,0.15,12241.7,6164.77,6076.93
+2023-12-27,East,Clothing,Jeans,Bob Smith,36,245.38,0.1,7950.31,5428.49,2521.82
+2023-01-14,East,Home & Garden,Candle Set,Grace Kim,34,62.17,0.05,2008.09,890.78,1117.31
+2023-10-21,East,Electronics,Smartphone,Carol White,44,132.77,0.2,4673.5,1956.37,2717.13
+2024-04-08,North,Food & Beverage,Protein Bar,Frank Chen,7,311.89,0.15,1855.75,1153.99,701.76
+2024-06-07,West,Clothing,Dress,David Lee,45,150.94,0.15,5773.45,2390.75,3382.7
+2024-07-19,West,Home & Garden,Wall Art,Frank Chen,4,16.35,0.0,65.4,30.14,35.26
+2023-07-18,East,Home & Garden,LED Lamp,David Lee,19,229.92,0.15,3713.21,1568.24,2144.97
+2023-02-11,North,Clothing,Dress,Grace Kim,28,146.77,0.0,4109.56,1804.18,2305.38
+2024-04-22,North,Sports,Running Shoes,Frank Chen,46,469.37,0.0,21591.02,9631.99,11959.03
+2024-05-17,North,Food & Beverage,Snack Mix,Eva Martinez,37,279.58,0.0,10344.46,6570.9,3773.56
+2024-06-17,South,Food & Beverage,Snack Mix,Carol White,5,395.27,0.0,1976.35,1037.15,939.2
+2023-08-15,North,Sports,Water Bottle,Frank Chen,14,335.03,0.0,4690.42,2383.86,2306.56
+2023-04-28,West,Clothing,Dress,Alice Johnson,43,179.54,0.0,7720.22,5182.96,2537.26
+2024-11-29,South,Sports,Jump Rope,Alice Johnson,21,196.87,0.2,3307.42,2260.61,1046.81
+2024-06-13,East,Home & Garden,Throw Pillow,Alice Johnson,50,193.73,0.2,7749.2,4282.37,3466.83
+2023-11-25,East,Home & Garden,Plant Pot,David Lee,33,50.35,0.0,1661.55,748.06,913.49
+2023-08-04,North,Sports,Jump Rope,Bob Smith,43,318.46,0.0,13693.78,9030.85,4662.93
+2024-10-24,South,Home & Garden,Plant Pot,Grace Kim,5,375.98,0.0,1879.9,765.36,1114.54
+2023-02-25,North,Food & Beverage,Coffee Beans,Bob Smith,12,399.17,0.1,4311.04,1815.52,2495.52
+2024-04-06,West,Clothing,Jacket,Grace Kim,41,208.18,0.0,8535.38,3457.4,5077.98
+2024-08-22,North,Electronics,Smart Watch,Bob Smith,3,353.43,0.0,1060.29,537.9,522.39
+2024-09-13,East,Sports,Yoga Mat,Eva Martinez,6,147.94,0.05,843.26,433.79,409.47
+2023-05-20,South,Electronics,Headphones,David Lee,48,201.59,0.2,7741.06,5069.16,2671.9
+2023-01-12,East,Food & Beverage,Protein Bar,Frank Chen,36,438.64,0.0,15791.04,6900.22,8890.82
+2023-11-09,West,Electronics,Smart Watch,Bob Smith,14,376.67,0.15,4482.37,2255.33,2227.04
+2023-07-08,South,Home & Garden,Candle Set,Carol White,15,312.27,0.0,4684.05,2146.69,2537.36
+2024-10-22,North,Clothing,Dress,Henry Brown,36,45.84,0.15,1402.7,589.43,813.27
+2024-01-01,West,Electronics,Smartphone,Frank Chen,9,338.93,0.0,3050.37,1311.7,1738.67
+2024-05-12,South,Sports,Yoga Mat,Frank Chen,29,170.89,0.15,4212.44,2071.27,2141.17
+2024-03-14,East,Sports,Dumbbell,Frank Chen,11,12.37,0.0,136.07,86.5,49.57
+2024-11-26,East,Home & Garden,Throw Pillow,Carol White,47,172.47,0.05,7700.79,4149.61,3551.18
+2023-06-29,West,Food & Beverage,Green Tea,Bob Smith,42,307.25,0.2,10323.6,4998.53,5325.07
+2024-10-03,South,Clothing,Dress,Eva Martinez,5,366.44,0.0,1832.2,1199.86,632.34
+2023-02-07,West,Electronics,Smart Watch,David Lee,36,137.7,0.1,4461.48,2416.48,2045.0
+2024-08-26,West,Clothing,Jacket,David Lee,47,430.01,0.0,20210.47,10901.74,9308.73
+2024-05-29,West,Sports,Yoga Mat,Frank Chen,1,334.71,0.2,267.77,184.55,83.22
+2023-06-13,South,Sports,Dumbbell,Henry Brown,12,287.52,0.1,3105.22,1856.38,1248.84
+2023-08-13,East,Clothing,Sneakers,Alice Johnson,49,248.94,0.0,12198.06,5846.62,6351.44
+2024-02-02,South,Clothing,T-Shirt,Frank Chen,31,459.77,0.0,14252.87,5871.77,8381.1
+2024-08-15,East,Food & Beverage,Coffee Beans,Eva Martinez,35,289.38,0.05,9621.88,5735.63,3886.25
+2024-01-21,North,Food & Beverage,Snack Mix,Eva Martinez,15,263.02,0.0,3945.3,2545.39,1399.91
+2024-05-28,West,Food & Beverage,Energy Drink,Alice Johnson,9,225.55,0.0,2029.95,858.93,1171.02
+2023-06-11,South,Food & Beverage,Protein Bar,Carol White,24,304.99,0.2,5855.81,2550.2,3305.61
+2024-05-08,East,Clothing,Sneakers,Bob Smith,44,244.62,0.0,10763.28,6212.97,4550.31
+2023-05-11,South,Home & Garden,Plant Pot,Alice Johnson,37,300.25,0.0,11109.25,6541.82,4567.43
+2023-06-20,South,Electronics,Smart Watch,Alice Johnson,17,462.0,0.1,7068.6,4859.46,2209.14
+2023-03-29,North,Sports,Jump Rope,Eva Martinez,14,230.11,0.05,3060.46,2020.49,1039.97
+2024-08-19,West,Clothing,Jeans,Carol White,50,99.12,0.15,4212.6,2330.59,1882.01
+2023-08-24,West,Clothing,Jacket,Bob Smith,25,198.88,0.0,4972.0,2013.5,2958.5
+2024-09-12,West,Sports,Jump Rope,Carol White,7,96.94,0.1,610.72,354.18,256.54
+2024-05-08,North,Sports,Jump Rope,Bob Smith,43,73.86,0.1,2858.38,1605.8,1252.58
+2023-02-14,West,Electronics,Headphones,Frank Chen,45,269.61,0.0,12132.45,8268.59,3863.86
+2024-03-11,East,Home & Garden,Wall Art,Bob Smith,9,134.71,0.2,969.91,455.62,514.29
+2023-07-13,West,Electronics,Tablet,Eva Martinez,1,357.48,0.2,285.98,115.0,170.98
+2024-11-01,North,Sports,Yoga Mat,Grace Kim,14,347.01,0.0,4858.14,2539.12,2319.02
+2023-09-25,West,Electronics,Smartphone,Eva Martinez,35,217.55,0.0,7614.25,4443.4,3170.85
+2023-07-03,West,Home & Garden,LED Lamp,Henry Brown,24,283.96,0.05,6474.29,3082.63,3391.66
+2023-05-22,East,Food & Beverage,Snack Mix,Grace Kim,43,68.35,0.0,2939.05,1569.39,1369.66
+2023-12-13,South,Clothing,T-Shirt,Grace Kim,36,310.87,0.15,9512.62,5822.08,3690.54
+2023-05-29,North,Clothing,Sneakers,Bob Smith,31,463.67,0.05,13655.08,5823.1,7831.98
+2024-09-15,East,Food & Beverage,Protein Bar,Bob Smith,3,365.0,0.05,1040.25,607.7,432.55
+2024-10-17,North,Sports,Running Shoes,Carol White,32,225.1,0.0,7203.2,4719.32,2483.88
+2024-09-05,South,Sports,Running Shoes,Alice Johnson,33,262.75,0.0,8670.75,5068.55,3602.2
+2023-06-11,South,Electronics,Tablet,Alice Johnson,6,498.44,0.2,2392.51,1243.7,1148.81
+2024-12-21,South,Home & Garden,Wall Art,Alice Johnson,5,460.4,0.1,2071.8,1005.54,1066.26
+2023-10-11,East,Sports,Jump Rope,Frank Chen,15,307.12,0.0,4606.8,2471.22,2135.58
+2023-06-29,North,Home & Garden,Candle Set,Eva Martinez,27,258.06,0.1,6270.86,2644.52,3626.34
+2024-07-04,North,Food & Beverage,Green Tea,Eva Martinez,37,132.57,0.05,4659.84,3214.44,1445.4
+2024-04-14,South,Sports,Water Bottle,Frank Chen,44,235.75,0.1,9335.7,6148.56,3187.14
+2024-01-27,East,Home & Garden,Plant Pot,Bob Smith,41,396.44,0.0,16254.04,9802.39,6451.65
+2024-06-12,West,Clothing,Jacket,Frank Chen,35,14.76,0.2,413.28,197.96,215.32
+2023-03-19,West,Food & Beverage,Coffee Beans,Frank Chen,36,466.38,0.05,15950.2,7881.98,8068.22
+2024-11-30,East,Clothing,Dress,Carol White,13,254.51,0.0,3308.63,1556.57,1752.06
+2023-07-27,South,Clothing,Jacket,David Lee,16,419.8,0.0,6716.8,3001.06,3715.74
+2024-09-20,North,Electronics,Laptop,Henry Brown,1,384.48,0.1,346.03,237.86,108.17
+2024-08-11,East,Home & Garden,Throw Pillow,Henry Brown,18,250.49,0.2,3607.06,2434.05,1173.01
+2023-02-25,South,Food & Beverage,Energy Drink,Carol White,34,401.64,0.05,12972.97,8846.22,4126.75
+2024-12-03,East,Electronics,Smart Watch,Grace Kim,50,95.65,0.0,4782.5,2914.81,1867.69
+2024-11-21,North,Home & Garden,Throw Pillow,Alice Johnson,14,195.92,0.0,2742.88,1364.94,1377.94
+2023-08-31,South,Sports,Running Shoes,Eva Martinez,18,240.96,0.1,3903.55,1963.21,1940.34
+2024-03-05,West,Clothing,Sneakers,David Lee,45,378.58,0.0,17036.1,11180.76,5855.34
+2024-08-12,South,Food & Beverage,Energy Drink,Carol White,44,122.0,0.0,5368.0,3308.0,2060.0
+2023-07-20,West,Clothing,Dress,Grace Kim,10,402.02,0.15,3417.17,1520.18,1896.99
+2023-05-18,West,Electronics,Smartphone,Henry Brown,41,263.33,0.15,9177.05,4540.05,4637.0
+2024-02-12,East,Home & Garden,Throw Pillow,Alice Johnson,7,348.37,0.0,2438.59,1133.07,1305.52
+2023-12-09,North,Food & Beverage,Energy Drink,Henry Brown,17,186.87,0.1,2859.11,1621.82,1237.29
+2023-05-05,North,Food & Beverage,Green Tea,Grace Kim,23,435.01,0.1,9004.71,4139.35,4865.36
+2023-12-30,South,Sports,Jump Rope,Eva Martinez,21,339.86,0.05,6780.21,4287.96,2492.25
+2024-04-19,West,Home & Garden,Plant Pot,Eva Martinez,41,478.73,0.2,15702.34,7070.33,8632.01
+2023-03-23,West,Food & Beverage,Energy Drink,Bob Smith,11,178.38,0.0,1962.18,971.4,990.78
+2024-03-31,West,Food & Beverage,Green Tea,Eva Martinez,50,432.78,0.0,21639.0,13510.71,8128.29
+2023-07-08,West,Sports,Water Bottle,Carol White,2,71.27,0.0,142.54,85.33,57.21
+2023-04-16,South,Electronics,Smartphone,Grace Kim,7,41.26,0.05,274.38,154.9,119.48
+2023-09-26,North,Electronics,Headphones,Bob Smith,40,86.08,0.15,2926.72,1988.64,938.08
+2023-10-18,South,Home & Garden,Throw Pillow,David Lee,29,316.98,0.0,9192.42,5129.58,4062.84
+2023-11-30,North,Clothing,T-Shirt,Frank Chen,31,238.92,0.2,5925.22,3331.01,2594.21
+2024-12-15,West,Food & Beverage,Snack Mix,Carol White,35,96.75,0.1,3047.62,1636.46,1411.16
+2024-05-08,East,Sports,Water Bottle,Frank Chen,35,121.29,0.0,4245.15,2260.79,1984.36
+2023-11-07,East,Food & Beverage,Energy Drink,Carol White,1,10.05,0.2,8.04,5.05,2.99
+2024-07-01,East,Clothing,Jacket,Henry Brown,1,347.01,0.05,329.66,225.52,104.14
+2023-10-27,North,Home & Garden,Throw Pillow,Grace Kim,39,123.3,0.0,4808.7,2714.34,2094.36
+2023-09-13,West,Clothing,Sneakers,Grace Kim,11,360.32,0.15,3368.99,1741.49,1627.5
+2024-03-08,East,Home & Garden,LED Lamp,Bob Smith,41,127.39,0.2,4178.39,2674.12,1504.27
+2024-02-27,East,Sports,Running Shoes,Eva Martinez,13,428.21,0.0,5566.73,2454.86,3111.87
+2024-12-18,West,Electronics,Headphones,Eva Martinez,40,251.08,0.0,10043.2,4075.72,5967.48
+2023-04-15,North,Electronics,Smart Watch,Carol White,19,141.91,0.15,2291.85,1218.18,1073.67
+2023-01-16,North,Electronics,Smartphone,Carol White,32,116.42,0.05,3539.17,1746.48,1792.69
+2023-12-05,West,Home & Garden,Throw Pillow,Alice Johnson,6,423.34,0.0,2540.04,1058.72,1481.32
+2023-07-16,West,Home & Garden,Plant Pot,Carol White,17,410.45,0.2,5582.12,2253.97,3328.15
+2023-02-04,West,Clothing,Sneakers,David Lee,13,235.81,0.2,2452.42,1050.1,1402.32
+2023-11-27,West,Clothing,Sneakers,Eva Martinez,11,318.29,0.0,3501.19,2182.7,1318.49
+2024-05-07,North,Sports,Jump Rope,Eva Martinez,41,156.42,0.0,6413.22,4272.85,2140.37
+2023-11-29,South,Clothing,T-Shirt,Grace Kim,1,92.01,0.0,92.01,52.94,39.07
+2024-08-18,North,Home & Garden,LED Lamp,Alice Johnson,45,242.88,0.1,9836.64,4392.04,5444.6
+2023-04-04,South,Electronics,Smartphone,Henry Brown,44,313.14,0.2,11022.53,6476.17,4546.36
+2023-05-09,South,Electronics,Tablet,Bob Smith,32,124.01,0.1,3571.49,2273.5,1297.99
+2024-12-06,South,Food & Beverage,Energy Drink,Alice Johnson,25,185.5,0.0,4637.5,2203.78,2433.72
+2024-07-09,West,Electronics,Headphones,Eva Martinez,45,250.15,0.1,10131.08,4619.65,5511.43
+2024-09-05,West,Food & Beverage,Green Tea,Eva Martinez,36,88.57,0.1,2869.67,1281.33,1588.34
+2023-01-01,East,Food & Beverage,Green Tea,Henry Brown,50,322.63,0.05,15324.92,9502.94,5821.98
+2023-11-25,East,Electronics,Smart Watch,David Lee,47,41.04,0.1,1735.99,1120.95,615.04
+2024-09-19,West,Clothing,Dress,Carol White,19,168.07,0.15,2714.33,1347.96,1366.37
+2023-05-13,North,Electronics,Smart Watch,Alice Johnson,12,438.01,0.0,5256.12,2271.26,2984.86
+2024-11-04,North,Clothing,T-Shirt,Grace Kim,32,267.65,0.15,7280.08,4201.26,3078.82
+2023-01-14,South,Electronics,Tablet,Bob Smith,14,331.32,0.2,3710.78,1573.32,2137.46
+2024-12-26,West,Electronics,Tablet,Frank Chen,4,413.59,0.0,1654.36,924.3,730.06
+2024-06-15,North,Electronics,Tablet,David Lee,7,59.6,0.0,417.2,233.42,183.78
+2024-07-25,South,Clothing,Jeans,Carol White,48,283.49,0.15,11566.39,4992.68,6573.71
+2023-04-17,West,Sports,Running Shoes,Grace Kim,11,398.31,0.1,3943.27,2052.34,1890.93
+2023-11-19,West,Food & Beverage,Protein Bar,Frank Chen,36,495.82,0.0,17849.52,11663.88,6185.64
+2024-07-30,East,Home & Garden,Wall Art,David Lee,35,114.82,0.2,3214.96,1816.68,1398.28
+2024-02-11,West,Food & Beverage,Green Tea,Henry Brown,1,365.89,0.0,365.89,211.75,154.14
+2023-11-04,East,Sports,Dumbbell,Alice Johnson,15,115.26,0.0,1728.9,702.82,1026.08
+2023-02-08,South,Food & Beverage,Snack Mix,Bob Smith,30,184.27,0.0,5528.1,2650.7,2877.4
+2023-11-04,South,Sports,Dumbbell,Eva Martinez,6,289.54,0.1,1563.52,1055.95,507.57
+2024-05-14,West,Electronics,Tablet,Carol White,45,354.4,0.2,12758.4,8577.43,4180.97
+2023-03-22,North,Sports,Running Shoes,Grace Kim,50,37.4,0.2,1496.0,748.47,747.53
+2024-10-30,North,Home & Garden,Wall Art,David Lee,39,465.04,0.15,15416.08,9761.86,5654.22
+2023-11-23,East,Home & Garden,Plant Pot,Alice Johnson,35,286.81,0.0,10038.35,5528.32,4510.03
+2024-04-01,North,Clothing,Jeans,Grace Kim,49,301.61,0.1,13301.0,5679.86,7621.14
+2023-05-16,West,Home & Garden,Throw Pillow,Carol White,22,50.45,0.1,998.91,622.91,376.0
+2024-02-13,East,Sports,Water Bottle,Bob Smith,33,222.9,0.15,6252.34,2745.48,3506.86
+2024-02-09,South,Clothing,Sneakers,Henry Brown,42,289.95,0.1,10960.11,6409.46,4550.65
+2023-09-30,South,Sports,Dumbbell,Bob Smith,50,220.73,0.15,9381.02,6353.22,3027.8
+2024-01-10,West,Electronics,Laptop,Grace Kim,23,103.34,0.0,2376.82,1374.19,1002.63
+2024-09-23,South,Electronics,Tablet,Frank Chen,29,315.36,0.05,8688.17,3592.24,5095.93
+2023-03-29,East,Clothing,Jeans,Carol White,8,372.39,0.0,2979.12,2039.75,939.37
+2024-12-11,North,Clothing,Jacket,Frank Chen,8,159.51,0.05,1212.28,493.19,719.09
+2024-07-13,South,Clothing,Dress,David Lee,34,377.67,0.1,11556.7,6297.34,5259.36
+2023-09-19,West,Clothing,T-Shirt,Alice Johnson,11,39.45,0.0,433.95,276.32,157.63
+2024-11-01,North,Sports,Running Shoes,Henry Brown,1,42.63,0.15,36.24,17.45,18.79
+2024-10-26,North,Food & Beverage,Coffee Beans,Eva Martinez,25,123.27,0.05,2927.66,1617.71,1309.95
+2023-07-10,West,Electronics,Tablet,Bob Smith,13,255.32,0.05,3153.2,1791.67,1361.53
+2023-12-08,South,Electronics,Laptop,Eva Martinez,32,202.77,0.0,6488.64,2631.22,3857.42
+2024-05-28,East,Food & Beverage,Green Tea,David Lee,18,407.83,0.15,6239.8,2978.28,3261.52
+2023-06-05,East,Home & Garden,Plant Pot,David Lee,22,449.62,0.15,8407.89,3709.38,4698.51
+2023-09-04,South,Home & Garden,Candle Set,Grace Kim,37,84.85,0.0,3139.45,2112.6,1026.85
+2024-10-30,South,Food & Beverage,Energy Drink,David Lee,9,294.71,0.15,2254.53,1442.97,811.56
+2023-05-29,South,Clothing,Jacket,Grace Kim,42,467.18,0.0,19621.56,9717.56,9904.0
+2023-11-22,North,Sports,Jump Rope,Carol White,10,366.27,0.2,2930.16,1452.21,1477.95
+2024-10-14,East,Home & Garden,Wall Art,Henry Brown,48,144.16,0.2,5535.74,2526.4,3009.34
+2024-09-12,North,Clothing,Jeans,Eva Martinez,37,310.06,0.1,10325.0,4849.19,5475.81
+2023-05-18,North,Electronics,Tablet,Henry Brown,33,424.61,0.05,13311.52,8168.03,5143.49
+2024-04-30,West,Food & Beverage,Protein Bar,Henry Brown,9,90.26,0.0,812.34,332.79,479.55
+2024-11-18,West,Electronics,Tablet,David Lee,13,381.31,0.0,4957.03,2246.15,2710.88
+2024-04-13,West,Home & Garden,Candle Set,Frank Chen,16,219.5,0.2,2809.6,1159.09,1650.51
+2024-06-17,West,Home & Garden,Throw Pillow,Alice Johnson,7,231.29,0.2,1295.22,859.16,436.06
+2024-07-25,West,Clothing,Dress,Alice Johnson,25,262.9,0.15,5586.62,3847.94,1738.68
+2023-11-08,West,Clothing,Jacket,Grace Kim,50,415.53,0.05,19737.67,8880.89,10856.78
+2024-04-19,North,Food & Beverage,Snack Mix,Carol White,42,231.33,0.15,8258.48,4543.79,3714.69
+2024-02-28,South,Clothing,Dress,Grace Kim,21,230.93,0.0,4849.53,2599.85,2249.68
+2023-11-28,North,Clothing,Sneakers,Eva Martinez,45,327.8,0.15,12538.35,8011.33,4527.02
+2024-10-11,North,Electronics,Laptop,Henry Brown,24,51.8,0.15,1056.72,544.45,512.27
+2024-07-17,South,Sports,Jump Rope,Grace Kim,25,31.51,0.0,787.75,530.69,257.06
+2023-07-03,South,Sports,Dumbbell,Carol White,50,358.9,0.05,17047.75,8394.63,8653.12
+2023-05-15,South,Home & Garden,Throw Pillow,Bob Smith,13,11.73,0.2,121.99,58.06,63.93
+2024-09-14,West,Home & Garden,Wall Art,Alice Johnson,32,126.56,0.1,3644.93,2179.09,1465.84
+2024-09-07,West,Home & Garden,Wall Art,Bob Smith,39,13.22,0.1,464.02,224.32,239.7
+2023-06-01,North,Sports,Dumbbell,Carol White,4,330.11,0.0,1320.44,585.76,734.68
+2023-03-31,East,Electronics,Smart Watch,Frank Chen,4,63.35,0.0,253.4,113.62,139.78
+2024-08-15,South,Food & Beverage,Snack Mix,Henry Brown,24,466.43,0.0,11194.32,7058.62,4135.7
+2024-03-13,West,Food & Beverage,Green Tea,Bob Smith,36,41.81,0.05,1429.9,629.68,800.22
+2024-12-13,West,Food & Beverage,Green Tea,David Lee,14,309.91,0.0,4338.74,2479.2,1859.54
+2024-03-13,West,Sports,Yoga Mat,Eva Martinez,39,425.42,0.0,16591.38,9251.64,7339.74
+2024-06-16,South,Sports,Running Shoes,Henry Brown,47,319.61,0.05,14270.59,9167.34,5103.25
+2023-01-02,East,Sports,Dumbbell,David Lee,8,21.75,0.15,147.9,94.51,53.39
+2023-02-16,West,Clothing,Dress,Grace Kim,22,181.33,0.2,3191.41,1886.92,1304.49
+2023-03-11,East,Electronics,Smartphone,Eva Martinez,20,157.14,0.1,2828.52,1406.28,1422.24
+2024-02-10,East,Electronics,Laptop,Frank Chen,47,288.77,0.0,13572.19,8816.67,4755.52
+2024-04-30,East,Clothing,Jacket,Henry Brown,3,326.37,0.05,930.15,415.42,514.73
+2024-02-28,East,Home & Garden,Candle Set,Henry Brown,48,37.45,0.1,1617.84,792.42,825.42
+2024-08-14,North,Food & Beverage,Snack Mix,David Lee,44,172.54,0.2,6073.41,3073.62,2999.79
+2024-01-20,North,Clothing,Jacket,Frank Chen,41,271.79,0.0,11143.39,6366.16,4777.23
+2024-12-23,North,Home & Garden,LED Lamp,Eva Martinez,21,357.82,0.0,7514.22,3938.66,3575.56
+2023-11-06,East,Home & Garden,LED Lamp,Henry Brown,14,267.3,0.0,3742.2,1622.88,2119.32
+2024-06-02,North,Electronics,Smartphone,Henry Brown,2,401.52,0.1,722.74,322.5,400.24
+2023-05-27,East,Food & Beverage,Energy Drink,Frank Chen,50,437.18,0.2,17487.2,12148.04,5339.16
+2024-04-15,South,Sports,Dumbbell,Alice Johnson,25,359.7,0.1,8093.25,3518.55,4574.7
+2024-04-23,North,Food & Beverage,Coffee Beans,Frank Chen,3,60.52,0.2,145.25,86.82,58.43
+2023-11-25,East,Food & Beverage,Coffee Beans,David Lee,13,104.35,0.0,1356.55,759.24,597.31
+2023-06-11,East,Home & Garden,Plant Pot,Carol White,18,66.09,0.1,1070.66,608.01,462.65
+2023-10-05,East,Electronics,Smartphone,Frank Chen,10,472.21,0.2,3777.68,1832.1,1945.58
+2024-09-19,North,Clothing,Jeans,Eva Martinez,22,274.88,0.0,6047.36,2654.93,3392.43
+2023-02-25,North,Home & Garden,Plant Pot,Grace Kim,6,218.97,0.0,1313.82,803.27,510.55
+2023-12-07,East,Sports,Water Bottle,Eva Martinez,13,359.32,0.15,3970.49,2552.19,1418.3
+2024-12-16,South,Electronics,Headphones,Bob Smith,30,57.66,0.0,1729.8,1047.12,682.68
+2023-05-28,South,Home & Garden,Wall Art,David Lee,40,136.45,0.0,5458.0,2825.19,2632.81
+2023-01-31,West,Food & Beverage,Green Tea,Henry Brown,5,242.91,0.0,1214.55,660.22,554.33
+2024-06-04,East,Clothing,Jacket,Carol White,7,208.79,0.15,1242.3,793.86,448.44
+2024-06-29,North,Food & Beverage,Snack Mix,Eva Martinez,30,206.4,0.05,5882.4,2773.98,3108.42
+2024-01-29,South,Clothing,Dress,Henry Brown,5,176.95,0.2,707.8,430.5,277.3
+2023-06-27,East,Home & Garden,Wall Art,David Lee,43,338.11,0.15,12357.92,8394.23,3963.69
+2023-11-30,North,Sports,Water Bottle,Henry Brown,36,57.85,0.05,1978.47,895.95,1082.52
+2023-12-02,North,Home & Garden,Plant Pot,Grace Kim,32,326.04,0.0,10433.28,4456.68,5976.6
+2024-11-07,North,Clothing,Dress,Carol White,10,231.96,0.0,2319.6,1199.22,1120.38
+2024-11-28,South,Sports,Water Bottle,David Lee,21,156.87,0.2,2635.42,1776.17,859.25
+2024-08-19,East,Food & Beverage,Energy Drink,Bob Smith,1,309.63,0.1,278.67,145.26,133.41
+2024-07-16,North,Clothing,Jacket,Frank Chen,4,10.41,0.1,37.48,24.22,13.26
+2023-08-29,East,Food & Beverage,Coffee Beans,Alice Johnson,28,354.09,0.05,9418.79,5534.14,3884.65
+2024-07-12,West,Home & Garden,Wall Art,Grace Kim,14,334.62,0.05,4450.45,1965.86,2484.59
+2023-06-07,East,Sports,Water Bottle,Grace Kim,19,498.75,0.15,8054.81,3525.31,4529.5
+2024-05-13,North,Electronics,Laptop,Carol White,43,224.0,0.0,9632.0,4097.44,5534.56
+2024-04-10,West,Home & Garden,Wall Art,Carol White,33,217.82,0.2,5750.45,3076.57,2673.88
+2024-09-11,South,Food & Beverage,Protein Bar,Grace Kim,1,293.19,0.2,234.55,145.25,89.3
+2023-02-04,West,Sports,Running Shoes,Frank Chen,3,288.39,0.15,735.39,375.47,359.92
+2024-06-23,North,Sports,Water Bottle,Carol White,49,391.65,0.05,18231.31,10119.92,8111.39
+2024-04-28,North,Sports,Jump Rope,David Lee,41,373.43,0.15,13014.04,5510.46,7503.58
+2023-12-18,East,Sports,Jump Rope,Alice Johnson,35,391.48,0.05,13016.71,6979.7,6037.01
+2023-12-28,East,Home & Garden,Candle Set,Grace Kim,19,151.71,0.0,2882.49,1754.04,1128.45
+2024-10-06,East,Sports,Running Shoes,Alice Johnson,31,293.29,0.1,8182.79,3399.83,4782.96
+2024-05-11,North,Food & Beverage,Snack Mix,Eva Martinez,6,72.14,0.0,432.84,283.7,149.14
+2023-10-09,South,Food & Beverage,Green Tea,Eva Martinez,17,16.96,0.0,288.32,167.56,120.76
+2023-06-29,West,Sports,Dumbbell,Frank Chen,17,393.44,0.0,6688.48,3648.4,3040.08
+2023-05-29,East,Sports,Yoga Mat,Bob Smith,39,467.63,0.0,18237.57,11877.84,6359.73
+2024-10-14,South,Home & Garden,Wall Art,Henry Brown,11,113.32,0.15,1059.54,691.4,368.14
+2023-06-21,North,Electronics,Tablet,Alice Johnson,30,205.38,0.0,6161.4,3344.9,2816.5
+2024-04-30,West,Sports,Dumbbell,Grace Kim,17,81.12,0.2,1103.23,585.18,518.05
+2024-06-26,West,Food & Beverage,Energy Drink,Frank Chen,44,478.38,0.0,21048.72,14214.49,6834.23
+2023-10-04,East,Food & Beverage,Energy Drink,Frank Chen,18,403.14,0.0,7256.52,4327.08,2929.44
+2024-06-16,South,Home & Garden,Wall Art,David Lee,22,342.08,0.0,7525.76,3717.58,3808.18
+2024-02-26,North,Electronics,Laptop,Alice Johnson,7,267.38,0.15,1590.91,849.2,741.71
+2023-02-04,East,Clothing,Jacket,David Lee,2,313.5,0.0,627.0,427.33,199.67
+2023-03-30,North,Clothing,Dress,Bob Smith,39,73.65,0.15,2441.5,1536.09,905.41
+2023-09-17,North,Sports,Dumbbell,Carol White,19,238.81,0.0,4537.39,2684.47,1852.92
+2023-06-15,East,Food & Beverage,Energy Drink,Eva Martinez,50,46.26,0.2,1850.4,774.79,1075.61
+2023-09-29,North,Home & Garden,Throw Pillow,Eva Martinez,12,225.88,0.05,2575.03,1786.62,788.41
+2024-10-22,West,Clothing,Dress,Carol White,32,63.13,0.1,1818.14,1146.54,671.6
+2023-09-23,North,Clothing,Dress,Henry Brown,7,27.08,0.0,189.56,108.32,81.24
+2023-06-02,North,Food & Beverage,Energy Drink,Henry Brown,42,323.76,0.0,13597.92,8150.35,5447.57
+2024-08-11,East,Food & Beverage,Protein Bar,Grace Kim,1,262.54,0.2,210.03,114.93,95.1
+2023-01-04,North,Home & Garden,Wall Art,David Lee,25,477.54,0.2,9550.8,6054.72,3496.08
+2024-11-29,East,Electronics,Smart Watch,Frank Chen,20,206.3,0.15,3507.1,2451.83,1055.27
+2024-04-15,East,Electronics,Tablet,Bob Smith,49,385.59,0.15,16059.82,7402.55,8657.27
+2023-11-03,West,Sports,Yoga Mat,David Lee,45,201.15,0.0,9051.75,5333.16,3718.59
+2023-07-14,North,Food & Beverage,Energy Drink,Henry Brown,9,27.49,0.0,247.41,152.39,95.02
+2023-03-06,West,Sports,Dumbbell,Grace Kim,35,325.27,0.05,10815.23,6058.5,4756.73
+2023-02-27,North,Home & Garden,Plant Pot,Frank Chen,22,396.01,0.0,8712.22,4544.75,4167.47
+2024-08-16,West,Clothing,Dress,Carol White,15,463.16,0.0,6947.4,4311.82,2635.58
+2023-09-06,West,Home & Garden,Plant Pot,Alice Johnson,45,327.91,0.0,14755.95,6664.89,8091.06
+2024-09-17,North,Electronics,Tablet,Henry Brown,11,419.32,0.0,4612.52,2976.64,1635.88
+2023-03-06,West,Electronics,Laptop,David Lee,13,218.84,0.2,2275.94,1481.11,794.83
+2023-11-26,North,Home & Garden,Throw Pillow,Carol White,14,384.47,0.1,4844.32,2189.8,2654.52
+2024-03-01,East,Electronics,Laptop,Carol White,11,351.18,0.1,3476.68,1562.77,1913.91
+2023-04-13,North,Clothing,Dress,Carol White,41,310.1,0.2,10171.28,4549.88,5621.4
+2023-07-03,North,Home & Garden,Plant Pot,Alice Johnson,6,356.3,0.1,1924.02,1281.54,642.48
+2023-05-27,South,Home & Garden,Wall Art,David Lee,41,142.77,0.05,5560.89,2911.73,2649.16
+2024-05-26,North,Clothing,Dress,Carol White,40,475.65,0.15,16172.1,10478.63,5693.47
+2024-07-25,West,Food & Beverage,Green Tea,Alice Johnson,16,104.03,0.1,1498.03,1038.19,459.84
+2024-10-03,South,Sports,Running Shoes,Henry Brown,43,111.97,0.0,4814.71,2205.69,2609.02
+2023-06-13,West,Clothing,Sneakers,Carol White,43,462.11,0.0,19870.73,11792.45,8078.28
+2023-12-09,West,Food & Beverage,Protein Bar,Eva Martinez,40,404.53,0.2,12944.96,6937.78,6007.18
+2023-01-30,South,Electronics,Laptop,Carol White,32,262.3,0.0,8393.6,5611.32,2782.28
+2023-07-23,East,Home & Garden,Candle Set,Grace Kim,48,341.66,0.0,16399.68,7691.76,8707.92
+2023-08-31,South,Electronics,Tablet,Bob Smith,48,212.17,0.0,10184.16,5221.01,4963.15
+2023-02-25,West,Clothing,T-Shirt,Henry Brown,28,81.02,0.1,2041.7,1095.37,946.33
+2023-07-18,South,Home & Garden,Throw Pillow,Henry Brown,41,185.71,0.0,7614.11,3507.54,4106.57
+2023-05-20,North,Clothing,T-Shirt,Eva Martinez,8,427.31,0.05,3247.56,1706.49,1541.07
+2024-10-15,East,Food & Beverage,Protein Bar,Carol White,40,453.73,0.1,16334.28,11287.65,5046.63
+2023-08-10,West,Clothing,T-Shirt,Henry Brown,38,242.01,0.05,8736.56,4226.32,4510.24
+2024-03-20,South,Home & Garden,LED Lamp,Frank Chen,38,118.98,0.1,4069.12,2782.77,1286.35
+2023-02-11,West,Sports,Yoga Mat,Alice Johnson,31,369.4,0.1,10306.26,4226.45,6079.81
+2024-04-08,West,Sports,Water Bottle,Bob Smith,32,127.85,0.1,3682.08,2304.7,1377.38
+2023-10-30,South,Home & Garden,LED Lamp,Frank Chen,16,327.34,0.0,5237.44,2120.01,3117.43
+2024-04-10,West,Food & Beverage,Protein Bar,Alice Johnson,30,388.2,0.2,9316.8,5692.01,3624.79
+2024-10-04,West,Clothing,Jacket,Alice Johnson,5,198.59,0.15,844.01,421.9,422.11
+2024-12-15,West,Electronics,Tablet,Eva Martinez,40,275.79,0.2,8825.28,4078.55,4746.73
+2024-06-11,East,Electronics,Smart Watch,Alice Johnson,44,188.36,0.0,8287.84,3591.04,4696.8
+2024-01-11,North,Food & Beverage,Energy Drink,Frank Chen,12,327.6,0.15,3341.52,1403.78,1937.74
+2024-07-06,East,Clothing,Jeans,David Lee,8,328.03,0.15,2230.6,1520.7,709.9
+2023-12-28,South,Sports,Dumbbell,Frank Chen,18,256.75,0.05,4390.43,2121.21,2269.22
+2024-05-12,East,Electronics,Tablet,Henry Brown,33,268.07,0.0,8846.31,4786.29,4060.02
+2024-09-27,East,Sports,Jump Rope,Henry Brown,24,401.95,0.15,8199.78,5269.5,2930.28
+2023-03-24,West,Electronics,Smartphone,Bob Smith,26,449.99,0.0,11699.74,8043.3,3656.44
+2023-04-25,South,Electronics,Laptop,Eva Martinez,45,82.5,0.0,3712.5,2459.52,1252.98
+2024-11-29,East,Sports,Yoga Mat,Grace Kim,35,466.54,0.05,15512.45,7818.43,7694.02
+2023-03-06,East,Home & Garden,Plant Pot,David Lee,2,437.18,0.0,874.36,568.76,305.6
+2024-11-02,West,Sports,Running Shoes,Frank Chen,42,395.54,0.05,15782.05,9122.14,6659.91
+2023-11-08,West,Sports,Jump Rope,Henry Brown,37,74.66,0.2,2209.94,1087.18,1122.76
+2023-10-23,West,Food & Beverage,Protein Bar,Frank Chen,50,424.3,0.0,21215.0,10733.44,10481.56
+2023-07-06,South,Home & Garden,LED Lamp,Eva Martinez,12,421.27,0.15,4296.95,2885.03,1411.92
+2023-02-12,South,Clothing,Jeans,Bob Smith,21,291.52,0.05,5815.82,2780.67,3035.15
+2023-12-19,North,Clothing,Jeans,Frank Chen,10,192.73,0.1,1734.57,1201.43,533.14
+2024-02-19,North,Sports,Running Shoes,Alice Johnson,32,386.57,0.05,11751.73,7971.71,3780.02
+2024-04-30,East,Clothing,T-Shirt,Eva Martinez,19,485.11,0.2,7373.67,5118.85,2254.82
+2024-12-06,West,Sports,Dumbbell,Frank Chen,8,368.5,0.0,2948.0,1302.51,1645.49
+2024-02-16,East,Sports,Yoga Mat,Alice Johnson,40,422.03,0.05,16037.14,8134.33,7902.81
+2023-10-12,South,Food & Beverage,Coffee Beans,David Lee,13,21.05,0.1,246.29,161.28,85.01
+2024-05-17,West,Electronics,Smart Watch,David Lee,21,305.55,0.1,5774.9,3944.38,1830.52
+2024-01-14,South,Food & Beverage,Energy Drink,Grace Kim,25,192.69,0.0,4817.25,2425.37,2391.88
+2024-03-30,North,Food & Beverage,Energy Drink,David Lee,48,496.37,0.2,19060.61,10154.56,8906.05
+2024-08-24,West,Clothing,Sneakers,Carol White,39,52.18,0.0,2035.02,999.13,1035.89
+2023-04-01,North,Sports,Running Shoes,Grace Kim,1,210.64,0.0,210.64,110.45,100.19
+2023-07-10,South,Sports,Water Bottle,David Lee,25,151.84,0.05,3606.2,1488.17,2118.03
+2024-07-26,East,Food & Beverage,Snack Mix,Henry Brown,48,237.09,0.0,11380.32,7253.43,4126.89
+2023-05-08,East,Clothing,Jacket,Henry Brown,42,336.3,0.0,14124.6,7417.49,6707.11
+2023-10-11,North,Home & Garden,LED Lamp,Bob Smith,32,497.22,0.0,15911.04,9223.11,6687.93
+2023-09-22,West,Food & Beverage,Snack Mix,Grace Kim,41,346.1,0.15,12061.58,7785.56,4276.02
+2023-06-16,North,Food & Beverage,Snack Mix,Eva Martinez,38,38.67,0.0,1469.46,791.03,678.43
+2023-10-07,South,Clothing,Jacket,Alice Johnson,24,215.56,0.0,5173.44,2144.98,3028.46
+2024-10-05,North,Food & Beverage,Snack Mix,David Lee,12,384.7,0.1,4154.76,2600.0,1554.76
+2023-10-05,East,Sports,Running Shoes,Eva Martinez,44,352.0,0.0,15488.0,6640.48,8847.52
+2023-05-21,South,Sports,Running Shoes,Alice Johnson,34,147.89,0.2,4022.61,2194.21,1828.4
+2023-06-08,North,Food & Beverage,Protein Bar,David Lee,33,118.35,0.0,3905.55,2493.82,1411.73
+2024-04-16,North,Sports,Jump Rope,Grace Kim,5,67.12,0.0,335.6,227.21,108.39
+2023-05-23,East,Home & Garden,Throw Pillow,Frank Chen,29,445.97,0.1,11639.82,6482.64,5157.18
+2023-05-02,East,Food & Beverage,Protein Bar,Alice Johnson,15,73.07,0.15,931.64,412.44,519.2
+2023-05-14,South,Clothing,Jacket,David Lee,6,218.15,0.2,1047.12,665.14,381.98
+2023-02-13,West,Electronics,Laptop,Grace Kim,13,62.83,0.2,653.43,390.71,262.72
+2023-09-17,West,Sports,Yoga Mat,Bob Smith,3,42.46,0.15,108.27,43.64,64.63
+2023-07-09,South,Electronics,Laptop,David Lee,43,182.25,0.0,7836.75,3476.91,4359.84
+2023-06-14,East,Food & Beverage,Snack Mix,Frank Chen,33,392.59,0.1,11659.92,5509.86,6150.06
+2024-06-25,North,Sports,Yoga Mat,Alice Johnson,14,360.75,0.0,5050.5,2280.46,2770.04
+2024-05-31,North,Sports,Yoga Mat,David Lee,46,242.61,0.15,9486.05,5471.69,4014.36
+2024-01-24,South,Home & Garden,Plant Pot,Frank Chen,28,114.99,0.0,3219.72,1681.57,1538.15
+2024-06-16,West,Food & Beverage,Coffee Beans,Bob Smith,9,252.95,0.0,2276.55,1391.93,884.62
+2024-05-20,North,Sports,Yoga Mat,Frank Chen,8,198.54,0.05,1508.9,875.34,633.56
+2023-10-25,South,Food & Beverage,Energy Drink,Grace Kim,28,102.5,0.0,2870.0,1918.38,951.62
+2024-11-21,South,Home & Garden,Throw Pillow,Alice Johnson,32,339.33,0.05,10315.63,5481.91,4833.72
+2024-02-15,South,Electronics,Laptop,Grace Kim,45,299.37,0.0,13471.65,8385.15,5086.5
+2023-12-13,East,Clothing,T-Shirt,David Lee,13,301.53,0.05,3723.9,1626.71,2097.19
+2024-10-21,East,Home & Garden,Wall Art,Eva Martinez,26,184.49,0.15,4077.23,2368.67,1708.56
+2024-04-10,East,Home & Garden,Wall Art,Carol White,7,69.87,0.05,464.64,255.17,209.47
+2023-03-11,North,Clothing,T-Shirt,Alice Johnson,32,342.27,0.0,10952.64,5638.31,5314.33
+2023-03-20,East,Food & Beverage,Protein Bar,Bob Smith,43,378.29,0.2,13013.18,7126.75,5886.43
+2024-05-17,East,Home & Garden,LED Lamp,Henry Brown,33,138.22,0.0,4561.26,2932.18,1629.08
+2024-03-16,North,Sports,Jump Rope,Alice Johnson,8,197.98,0.0,1583.84,1038.78,545.06
+2023-07-01,North,Home & Garden,Wall Art,Alice Johnson,36,333.11,0.2,9593.57,4709.61,4883.96
+2023-11-16,West,Clothing,Sneakers,Carol White,46,200.65,0.2,7383.92,3195.87,4188.05
+2024-07-29,West,Home & Garden,Candle Set,Henry Brown,11,258.28,0.05,2699.03,1292.88,1406.15
+2023-11-25,East,Sports,Water Bottle,Eva Martinez,4,23.79,0.0,95.16,41.72,53.44
+2024-01-25,North,Food & Beverage,Green Tea,Frank Chen,7,219.79,0.0,1538.53,805.54,732.99
+2024-10-25,South,Electronics,Smartphone,David Lee,20,300.34,0.15,5105.78,2142.64,2963.14
+2023-01-21,East,Food & Beverage,Coffee Beans,Carol White,35,169.8,0.05,5645.85,3372.44,2273.41
+2023-01-21,West,Home & Garden,Candle Set,Eva Martinez,45,240.15,0.0,10806.75,7518.57,3288.18
+2024-08-09,West,Home & Garden,Candle Set,Frank Chen,7,406.08,0.0,2842.56,1726.17,1116.39
+2023-06-20,West,Clothing,Jacket,Frank Chen,40,156.77,0.05,5957.26,2743.48,3213.78
+2023-09-29,South,Electronics,Smart Watch,Eva Martinez,4,155.69,0.1,560.48,291.79,268.69
+2024-08-29,North,Clothing,Dress,Bob Smith,22,143.95,0.1,2850.21,1825.15,1025.06
+2023-03-20,South,Home & Garden,Wall Art,Frank Chen,42,413.63,0.1,15635.21,10025.89,5609.32
+2024-02-29,East,Home & Garden,Candle Set,David Lee,26,133.12,0.1,3115.01,1669.55,1445.46
+2024-08-13,North,Sports,Dumbbell,Carol White,32,114.35,0.2,2927.36,1822.76,1104.6
+2024-06-18,West,Home & Garden,Throw Pillow,Alice Johnson,13,188.49,0.0,2450.37,1156.85,1293.52
+2023-03-07,West,Food & Beverage,Energy Drink,Frank Chen,41,109.74,0.05,4274.37,2052.04,2222.33
+2024-02-20,East,Food & Beverage,Protein Bar,David Lee,16,65.64,0.0,1050.24,428.82,621.42
+2024-03-08,West,Food & Beverage,Energy Drink,Grace Kim,42,453.77,0.0,19058.34,8534.47,10523.87
+2024-11-05,East,Clothing,T-Shirt,Eva Martinez,36,96.23,0.2,2771.42,1143.68,1627.74
+2023-11-18,North,Home & Garden,Plant Pot,Bob Smith,39,156.01,0.0,6084.39,4077.59,2006.8
+2023-05-24,North,Home & Garden,Throw Pillow,Grace Kim,16,64.85,0.15,881.96,485.14,396.82
+2023-04-03,East,Electronics,Smart Watch,Henry Brown,16,303.91,0.2,3890.05,2497.44,1392.61
+2024-03-09,West,Food & Beverage,Snack Mix,David Lee,14,80.7,0.0,1129.8,524.49,605.31
+2024-08-26,West,Food & Beverage,Energy Drink,Eva Martinez,4,250.28,0.0,1001.12,610.57,390.55
+2024-11-30,West,Electronics,Tablet,Henry Brown,16,482.02,0.2,6169.86,4202.24,1967.62
+2023-01-22,East,Food & Beverage,Energy Drink,Eva Martinez,42,483.73,0.1,18284.99,7504.94,10780.05
+2023-11-13,East,Electronics,Smartphone,Grace Kim,41,479.66,0.0,19666.06,13194.89,6471.17
+2024-02-02,South,Electronics,Smart Watch,Henry Brown,1,455.8,0.05,433.01,293.69,139.32
+2023-11-01,North,Food & Beverage,Green Tea,David Lee,14,431.11,0.0,6035.54,4072.58,1962.96
+2023-03-24,North,Food & Beverage,Energy Drink,Eva Martinez,50,470.84,0.05,22364.9,13890.45,8474.45
+2024-12-16,North,Food & Beverage,Energy Drink,Carol White,17,258.1,0.0,4387.7,2309.08,2078.62
+2023-02-23,West,Sports,Running Shoes,Alice Johnson,42,324.38,0.15,11580.37,6172.59,5407.78
+2024-10-05,West,Clothing,T-Shirt,David Lee,20,163.72,0.0,3274.4,1418.63,1855.77
+2023-11-24,South,Clothing,Dress,Grace Kim,29,244.4,0.15,6024.46,2651.08,3373.38
+2023-07-23,East,Clothing,Dress,Eva Martinez,6,213.1,0.0,1278.6,662.38,616.22
+2023-01-24,South,Home & Garden,Candle Set,Alice Johnson,36,327.08,0.15,10008.65,4690.18,5318.47
+2024-12-19,South,Electronics,Headphones,Eva Martinez,11,34.39,0.1,340.46,179.99,160.47
+2023-06-24,North,Food & Beverage,Protein Bar,Frank Chen,37,67.5,0.15,2122.88,1184.04,938.84
+2024-12-31,North,Home & Garden,Wall Art,David Lee,14,103.37,0.2,1157.74,745.61,412.13
+2023-05-14,West,Food & Beverage,Green Tea,Grace Kim,28,429.61,0.1,10826.17,5030.6,5795.57
+2024-02-23,West,Food & Beverage,Protein Bar,Carol White,10,24.1,0.0,241.0,113.43,127.57
+2023-03-29,East,Home & Garden,LED Lamp,Henry Brown,1,239.75,0.2,191.8,95.32,96.48
+2024-09-03,West,Home & Garden,LED Lamp,Grace Kim,17,45.8,0.1,700.74,292.65,408.09
+2024-09-12,West,Food & Beverage,Protein Bar,Frank Chen,43,483.93,0.1,18728.09,11477.88,7250.21
+2023-11-06,East,Electronics,Laptop,Grace Kim,26,338.92,0.0,8811.92,6083.9,2728.02
+2023-06-23,South,Sports,Yoga Mat,Eva Martinez,33,251.49,0.0,8299.17,5505.41,2793.76
+2023-05-26,East,Clothing,T-Shirt,Grace Kim,17,67.25,0.0,1143.25,792.91,350.34
+2023-10-17,East,Home & Garden,Throw Pillow,Grace Kim,17,310.34,0.2,4220.62,2861.64,1358.98
+2023-11-20,West,Sports,Running Shoes,Carol White,48,497.34,0.2,19097.86,13082.32,6015.54
+2023-06-02,North,Sports,Water Bottle,David Lee,4,122.63,0.0,490.52,265.41,225.11
+2024-05-21,West,Clothing,Sneakers,Bob Smith,3,226.34,0.15,577.17,327.98,249.19
+2023-05-07,North,Home & Garden,Wall Art,Carol White,23,55.85,0.2,1027.64,498.65,528.99
+2024-08-20,East,Clothing,Dress,David Lee,1,267.75,0.1,240.97,109.44,131.53
+2023-12-03,West,Electronics,Smartphone,Bob Smith,2,149.3,0.15,253.81,110.81,143.0
+2023-06-07,North,Food & Beverage,Snack Mix,Frank Chen,2,49.72,0.2,79.55,48.71,30.84
+2023-12-04,East,Home & Garden,Wall Art,Alice Johnson,3,331.52,0.05,944.83,470.03,474.8
+2024-10-21,South,Sports,Dumbbell,Alice Johnson,19,168.35,0.0,3198.65,1993.21,1205.44
+2024-02-13,West,Sports,Jump Rope,Bob Smith,17,97.23,0.2,1322.33,872.28,450.05
+2024-02-02,South,Electronics,Laptop,Carol White,50,207.17,0.15,8804.73,5509.71,3295.02
+2024-03-18,East,Clothing,T-Shirt,Henry Brown,48,405.11,0.0,19445.28,13050.12,6395.16
+2024-01-12,East,Sports,Dumbbell,Bob Smith,33,107.94,0.05,3383.92,2252.42,1131.5
+2024-03-08,West,Home & Garden,Throw Pillow,Bob Smith,24,310.8,0.05,7086.24,4175.25,2910.99
+2024-11-23,East,Electronics,Laptop,Henry Brown,15,327.33,0.15,4173.46,1863.54,2309.92
+2024-04-24,North,Home & Garden,Candle Set,Eva Martinez,28,48.8,0.2,1093.12,593.87,499.25
+2024-06-19,East,Clothing,Jeans,David Lee,28,154.79,0.0,4334.12,2450.07,1884.05
+2024-02-27,North,Electronics,Smart Watch,Grace Kim,7,237.68,0.15,1414.2,806.86,607.34
+2024-05-30,East,Food & Beverage,Green Tea,Bob Smith,2,65.83,0.15,111.91,60.3,51.61
+2024-03-02,North,Clothing,Sneakers,Bob Smith,46,155.85,0.1,6452.19,3982.47,2469.72
+2023-07-11,East,Home & Garden,Candle Set,Frank Chen,14,100.69,0.15,1198.21,832.34,365.87
+2023-01-06,West,Food & Beverage,Coffee Beans,Alice Johnson,26,67.17,0.0,1746.42,1042.16,704.26
+2024-09-25,West,Home & Garden,Wall Art,Eva Martinez,40,186.76,0.15,6349.84,4374.67,1975.17
+2023-05-19,North,Home & Garden,Throw Pillow,Carol White,1,103.49,0.2,82.79,33.51,49.28
+2024-10-26,South,Clothing,T-Shirt,Henry Brown,10,328.37,0.05,3119.51,2035.88,1083.63
+2024-04-19,North,Sports,Dumbbell,Eva Martinez,10,242.25,0.0,2422.5,1053.64,1368.86
+2023-01-21,West,Clothing,Sneakers,Henry Brown,29,296.76,0.0,8606.04,4203.62,4402.42
+2023-04-16,East,Home & Garden,Plant Pot,Alice Johnson,41,425.34,0.05,16566.99,11494.94,5072.05
+2024-05-14,East,Home & Garden,Candle Set,Alice Johnson,26,248.19,0.1,5807.65,3585.55,2222.1
+2024-03-08,North,Home & Garden,LED Lamp,Alice Johnson,37,164.77,0.0,6096.49,2928.48,3168.01
+2024-09-29,North,Home & Garden,Wall Art,Henry Brown,42,179.91,0.15,6422.79,3409.66,3013.13
+2023-12-19,South,Clothing,Jacket,Henry Brown,29,123.73,0.0,3588.17,2067.85,1520.32
+2023-10-28,West,Food & Beverage,Snack Mix,Carol White,47,358.58,0.05,16010.6,10405.68,5604.92
+2023-10-17,South,Food & Beverage,Energy Drink,David Lee,45,377.13,0.15,14425.22,7859.83,6565.39
+2023-04-14,South,Clothing,Jeans,Henry Brown,27,472.1,0.05,12109.36,5946.85,6162.51
+2024-01-03,North,Clothing,Dress,Alice Johnson,17,184.95,0.0,3144.15,1422.46,1721.69
+2024-03-16,North,Sports,Yoga Mat,Frank Chen,8,312.61,0.0,2500.88,1421.99,1078.89
+2023-02-17,East,Home & Garden,Throw Pillow,Frank Chen,50,440.08,0.0,22004.0,14718.37,7285.63
+2024-03-24,North,Sports,Jump Rope,Alice Johnson,30,481.7,0.2,11560.8,5009.05,6551.75
+2024-06-03,North,Electronics,Smart Watch,Alice Johnson,7,91.85,0.0,642.95,425.16,217.79
+2024-06-02,East,Food & Beverage,Protein Bar,Henry Brown,32,368.95,0.0,11806.4,5269.06,6537.34
+2023-07-26,South,Food & Beverage,Green Tea,Bob Smith,29,485.12,0.2,11254.78,7098.5,4156.28
+2024-06-01,East,Clothing,Sneakers,Eva Martinez,11,51.76,0.0,569.36,349.91,219.45
+2024-06-26,South,Home & Garden,Throw Pillow,Carol White,27,395.74,0.0,10684.98,6844.06,3840.92
+2023-01-31,West,Home & Garden,Wall Art,Frank Chen,29,81.34,0.0,2358.86,1451.38,907.48
+2023-11-19,North,Sports,Yoga Mat,Frank Chen,26,491.15,0.0,12769.9,6770.88,5999.02
+2024-10-08,South,Home & Garden,Plant Pot,Alice Johnson,46,401.54,0.1,16623.76,11500.29,5123.47
+2023-12-19,East,Home & Garden,Wall Art,Frank Chen,1,415.23,0.1,373.71,217.92,155.79
+2024-07-11,West,Clothing,Sneakers,David Lee,40,396.29,0.15,13473.86,7176.76,6297.1
+2023-03-28,South,Food & Beverage,Energy Drink,Eva Martinez,3,273.34,0.05,779.02,481.07,297.95
+2023-04-06,East,Clothing,Dress,David Lee,33,280.38,0.1,8327.29,4182.07,4145.22
+2023-09-05,North,Clothing,T-Shirt,Eva Martinez,50,158.93,0.05,7549.17,5254.87,2294.3
+2024-10-04,East,Electronics,Laptop,Eva Martinez,33,183.69,0.0,6061.77,3800.54,2261.23
+2024-04-09,East,Electronics,Headphones,Alice Johnson,22,491.65,0.2,8653.04,5397.14,3255.9
+2023-11-03,South,Sports,Jump Rope,Frank Chen,19,336.79,0.2,5119.21,3145.53,1973.68
+2023-12-02,South,Clothing,Sneakers,Bob Smith,34,295.36,0.2,8033.79,5089.93,2943.86
+2024-02-26,South,Home & Garden,Plant Pot,Grace Kim,6,55.2,0.05,314.64,209.72,104.92
+2024-01-14,West,Home & Garden,LED Lamp,Bob Smith,44,267.87,0.1,10607.65,6021.86,4585.79
+2024-03-26,West,Home & Garden,Throw Pillow,Grace Kim,45,466.21,0.05,19930.48,12347.23,7583.25
+2024-05-11,South,Home & Garden,LED Lamp,Carol White,46,234.28,0.15,9160.35,5074.43,4085.92
+2024-04-29,South,Sports,Yoga Mat,Henry Brown,3,375.78,0.1,1014.61,518.26,496.35
+2023-05-04,West,Electronics,Smart Watch,Bob Smith,24,290.16,0.0,6963.84,3877.7,3086.14
+2023-11-07,East,Electronics,Tablet,Frank Chen,19,248.1,0.2,3771.12,1670.08,2101.04
+2023-10-18,North,Sports,Water Bottle,Eva Martinez,14,99.71,0.15,1186.55,648.61,537.94
+2023-02-15,East,Electronics,Smart Watch,Bob Smith,27,245.78,0.0,6636.06,3780.76,2855.3
+2023-05-22,West,Food & Beverage,Energy Drink,Carol White,33,321.87,0.2,8497.37,4545.91,3951.46
+2024-10-01,East,Home & Garden,LED Lamp,Bob Smith,43,315.56,0.05,12890.63,6056.62,6834.01
+2023-10-12,North,Home & Garden,Throw Pillow,Henry Brown,42,53.38,0.0,2241.96,1372.44,869.52
+2023-07-17,North,Sports,Running Shoes,Bob Smith,40,275.5,0.2,8816.0,3666.24,5149.76
+2024-05-29,South,Sports,Jump Rope,Henry Brown,2,68.94,0.1,124.09,56.33,67.76
+2024-12-23,South,Electronics,Tablet,David Lee,38,227.67,0.2,6921.17,3876.29,3044.88
+2023-01-24,North,Food & Beverage,Energy Drink,Henry Brown,22,224.14,0.05,4684.53,1907.62,2776.91
+2023-04-04,West,Sports,Running Shoes,Eva Martinez,8,490.1,0.1,3528.72,1589.5,1939.22
+2023-06-07,East,Clothing,Jeans,Bob Smith,20,476.56,0.15,8101.52,3651.82,4449.7
+2024-12-31,South,Sports,Running Shoes,Alice Johnson,4,156.03,0.0,624.12,309.57,314.55
+2023-05-04,East,Home & Garden,Throw Pillow,Grace Kim,4,109.25,0.2,349.6,202.45,147.15
+2023-10-03,West,Clothing,Sneakers,Bob Smith,4,165.98,0.1,597.53,311.98,285.55
+2023-01-20,West,Home & Garden,Plant Pot,David Lee,18,281.5,0.1,4560.3,2747.71,1812.59
+2024-08-04,South,Clothing,Dress,Eva Martinez,27,228.53,0.2,4936.25,2916.04,2020.21
+2023-09-09,East,Clothing,Jeans,Carol White,35,476.78,0.1,15018.57,8042.78,6975.79
+2023-01-01,East,Electronics,Headphones,Carol White,4,467.42,0.05,1776.2,856.11,920.09
+2024-08-22,East,Food & Beverage,Energy Drink,David Lee,33,147.84,0.0,4878.72,3033.37,1845.35
+2024-02-09,East,Sports,Yoga Mat,Bob Smith,45,70.26,0.0,3161.7,1952.42,1209.28
+2024-11-29,South,Food & Beverage,Energy Drink,Frank Chen,22,321.23,0.2,5653.65,3461.88,2191.77
+2023-08-04,East,Food & Beverage,Protein Bar,Frank Chen,30,479.91,0.0,14397.3,5827.49,8569.81
+2023-01-10,West,Clothing,T-Shirt,Alice Johnson,44,95.03,0.1,3763.19,2516.0,1247.19
+2024-07-05,North,Home & Garden,Wall Art,Bob Smith,2,447.36,0.2,715.78,430.53,285.25
+2024-02-01,West,Electronics,Tablet,Frank Chen,12,421.18,0.2,4043.33,2462.83,1580.5
+2023-07-17,West,Electronics,Laptop,Frank Chen,29,14.59,0.15,359.64,145.99,213.65
+2024-09-20,South,Food & Beverage,Green Tea,Bob Smith,41,158.56,0.15,5525.82,2576.93,2948.89
+2024-05-19,North,Home & Garden,Throw Pillow,Eva Martinez,46,356.41,0.0,16394.86,6593.04,9801.82
+2023-06-24,East,Home & Garden,Plant Pot,Henry Brown,36,104.95,0.15,3211.47,1829.61,1381.86
+2024-08-25,South,Sports,Jump Rope,Bob Smith,9,375.53,0.0,3379.77,1615.15,1764.62
+2024-11-25,East,Sports,Dumbbell,David Lee,2,496.06,0.15,843.3,508.78,334.52
+2024-03-13,West,Sports,Running Shoes,Alice Johnson,42,339.82,0.15,12131.57,5041.38,7090.19
+2023-05-05,West,Food & Beverage,Energy Drink,Eva Martinez,44,263.96,0.05,11033.53,5609.91,5423.62
+2024-03-06,North,Electronics,Smartphone,Eva Martinez,35,229.94,0.0,8047.9,4165.25,3882.65
+2024-12-07,North,Food & Beverage,Coffee Beans,David Lee,28,479.31,0.0,13420.68,6160.94,7259.74
+2023-01-29,North,Food & Beverage,Green Tea,Bob Smith,31,221.65,0.0,6871.15,3969.87,2901.28
+2024-04-29,South,Food & Beverage,Green Tea,Bob Smith,16,479.81,0.2,6141.57,2556.92,3584.65
+2024-09-06,South,Food & Beverage,Snack Mix,Bob Smith,40,224.88,0.0,8995.2,5285.62,3709.58
+2023-02-04,North,Sports,Yoga Mat,Alice Johnson,25,163.51,0.2,3270.2,1988.31,1281.89
+2023-11-05,West,Clothing,T-Shirt,Alice Johnson,40,316.83,0.0,12673.2,5456.42,7216.78
+2024-01-26,North,Electronics,Smart Watch,Eva Martinez,26,56.96,0.2,1184.77,620.03,564.74
+2024-01-29,North,Sports,Jump Rope,Henry Brown,30,399.63,0.1,10790.01,6320.46,4469.55
+2024-08-24,West,Food & Beverage,Coffee Beans,Frank Chen,13,62.92,0.0,817.96,473.23,344.73
+2024-10-14,South,Electronics,Smart Watch,Carol White,33,135.58,0.05,4250.43,2314.02,1936.41
+2023-05-21,South,Sports,Water Bottle,David Lee,3,39.64,0.0,118.92,68.42,50.5
+2023-05-31,East,Sports,Running Shoes,Carol White,31,161.25,0.0,4998.75,2435.99,2562.76
+2023-09-01,South,Electronics,Smart Watch,Alice Johnson,33,411.4,0.1,12218.58,8035.07,4183.51
+2024-10-17,South,Home & Garden,Throw Pillow,David Lee,13,394.78,0.0,5132.14,2344.4,2787.74
+2024-09-22,East,Home & Garden,Wall Art,Frank Chen,20,215.16,0.0,4303.2,1856.63,2446.57
+2024-10-16,South,Electronics,Headphones,Alice Johnson,15,349.68,0.05,4982.94,2925.86,2057.08
+2023-07-30,East,Clothing,Sneakers,Grace Kim,26,100.28,0.0,2607.28,1326.7,1280.58
+2023-05-26,North,Electronics,Tablet,Bob Smith,19,225.8,0.15,3646.67,2099.41,1547.26
+2023-07-22,North,Food & Beverage,Coffee Beans,David Lee,19,95.33,0.0,1811.27,1115.11,696.16
+2023-07-20,South,Food & Beverage,Snack Mix,Carol White,2,96.28,0.0,192.56,129.63,62.93
+2023-12-13,West,Electronics,Smartphone,Bob Smith,14,159.49,0.0,2232.86,1140.75,1092.11
+2023-05-02,West,Food & Beverage,Protein Bar,Bob Smith,10,442.53,0.0,4425.3,2825.42,1599.88
+2023-11-22,West,Clothing,Dress,Frank Chen,39,220.47,0.15,7308.58,3459.63,3848.95
+2023-06-02,South,Electronics,Smart Watch,Eva Martinez,21,131.11,0.15,2340.31,1494.72,845.59
+2023-03-25,West,Clothing,Dress,David Lee,31,397.59,0.1,11092.76,4652.99,6439.77
+2024-06-15,East,Sports,Water Bottle,Henry Brown,30,97.71,0.15,2491.6,1276.11,1215.49
+2024-08-18,West,Home & Garden,Wall Art,Eva Martinez,26,322.67,0.2,6711.54,3860.44,2851.1
+2024-04-07,South,Electronics,Smartphone,David Lee,16,203.99,0.0,3263.84,1721.7,1542.14
