@@ -7,3 +7,4 @@ __pycache__/
 dist/
 .DS_Store
 sales_data.csv
+.chat_history.json
